@@ -13,6 +13,8 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+---
+
 ### **Day 2 of #100DaysOfData Challenge**
 
 Today wasn't the most productive day because I went to get my second Covid-19 jab. But anyway, I managed to spend some time on my house price project and watch some more videos.
