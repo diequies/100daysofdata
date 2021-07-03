@@ -15,6 +15,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 3 of #100DaysOfData Challenge**
+
+Today I spent most of the time on the London Houses project as the extraction of floor area information is beeing tricky. Also, I kept whatching some videos from the course.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). The main point I have been working today has been the pattern extraction for floor area I started yesterday. First I reviewed and improved the custom functions I built, basically improving the efficiency and also dealing with some possible problems it may raise in the future. And second to try to adapt the functions to work more generally and be able to apply to the *"description"* as well as the *"features"*. I expect to finallize the floor area extraction tomorrow and then decide how to deal with the missing values.
+2. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today I couldn't progress that much in the course, I continued watching *Pandas* section. In this case talking about string, time and date methods and how to deal with this data types in a DataFrame.
+
+---
+
 ### **Day 2 of #100DaysOfData Challenge**
 
 Today wasn't the most productive day because I went to get my second Covid-19 jab. But anyway, I managed to spend some time on my house price project and watch some more videos.
