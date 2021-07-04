@@ -15,6 +15,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 4 of #100DaysOfData Challenge**
+
+Most of the day, I have been battling to extract floor area from the *"description"* and *"features"* texts; after that, I finalised the *Pandas* section of the course and finally started another book.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). As I said, I spent most of the day trying to extract floor data from text features. I have found many issues, mainly due to data types and data flow, when I wanted to solve them. I think I am overcomplicating the functions. Therefore my plan for tomorrow is to start from scratch the functions with what I learned in the first trial loop.
+2. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today, I finished *Pandas* section of the course, including the Notebook with exercises. So far, I am finding the course quite complete and with a good combination of theory and practice, of course, if you have the will to complete the exercises.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): Finally, today I have started another Python book, the aim is to settle down and complete my Python for Data Science before start going deeper in Machine Learning. I have begun the *Chapter 1*, which is about IPython and gives a basic overview of its added functions to normal Python.
+ 
+---
+
 ### **Day 3 of #100DaysOfData Challenge**
 
 Today I spent most of the time on the London Houses project as the extraction of floor area information is quite tricky. Also, I kept watching some videos from the course.
