@@ -15,6 +15,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 5 of #100DaysOfData Challenge**
+
+Finally, I beat the pattern extraction issue I was having, and it has been thanks to some essential debugging tips I learnt from the book. However, today most than any, I feel how important it is to settle down the learnings.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). I managed to find my issues with pattern extraction, mainly inappropriate use of data flow and data types. With these, I take two main learnings: first, taking a step back sometimes is more effective than keeping fighting, and second, debugging practices are essential and a weakness I detected and need to improve. The next step will be to improve the patterns list to extract floor area data as current performance is relatively poor.
+2. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today, I finished the *Matplotlib* section, even though I had already experience using it, it was good to improve my understanding of the OOP way to use it. The next one will be the *Seaborn* library.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): I am currently reading the first chapter, which speaks extensively about IPython. Even though I was already using Jupytern Notebooks that runs with IPython, I didn't know 99% of its features. Today, it was especially useful the debugging one.
+
+---
+
 ### **Day 4 of #100DaysOfData Challenge**
 
 Most of the day, I have been battling to extract floor area from the *"description"* and *"features"* texts; after that, I finalised the *Pandas* section of the course and finally started another book.
