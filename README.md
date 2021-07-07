@@ -15,6 +15,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 7 of #100DaysOfData Challenge**
+
+After loads of effort and incredibly huge learning, not only on pattern extraction but also about flow and data types, I managed to get the best possible quantity of floor area records. I spent almost the day finalizing the code, but I could read something at the end of the day.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Today, I improved yesterday's mark of 26% to 40% of floor area feature records. It means that I have around 20k houses with floor area information out of 50k houses. However, I don't think it is enough to fill the missing values, so that I will drop the NaN values rows. Also, a sample of 20k houses with a total population of 50k seems enough to make reliable predictions. The next step is to finalize the feature extraction from text features and clean the data before storing it in a SQL server.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): I couldn't read as much as I wish, but at least I finished *IPython* chapter, being surprisingly didactic. From tomorrow, I will start reading the *NumPy* chapter, and hopefully I can grasp deep knowledge on this library.
+
+---
+
 ### **Day 6 of #100DaysOfData Challenge**
 
 Yesterday I was so focused on improve pattern extraction that I couldn't write here how was the day. Finally, I could improve the results, but there is still a long way. I could also spend some time with the course and the book.
@@ -22,7 +31,6 @@ Yesterday I was so focused on improve pattern extraction that I couldn't write h
 1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). As I said, I could improve the floor area extraction, but it is still around 25% of records with information. To be able to work with this dataset, I need to improve such an important feature.
 2. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). I also finalized the *Seaborn* section, and hopefully, I can practice what I learnt soon by doing some exploratory analysis in my project.
 3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): Sadly, I spent the least time was reading the book. I could just keep reading the IPython chapter, in this case about time measurement and profiling.
-
 
 ---
 
