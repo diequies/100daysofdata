@@ -15,6 +15,17 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 6 of #100DaysOfData Challenge**
+
+Yesterday I was so focused on improve pattern extraction that I couldn't write here how was the day. Finally, I could improve the results, but there is still a long way. I could also spend some time with the course and the book.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). As I said, I could improve the floor area extraction, but it is still around 25% of records with information. To be able to work with this dataset, I need to improve such an important feature.
+2. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). I also finalized the *Seaborn* section, and hopefully, I can practice what I learnt soon by doing some exploratory analysis in my project.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): Sadly, I spent the least time was reading the book. I could just keep reading the IPython chapter, in this case about time measurement and profiling.
+
+
+---
+
 ### **Day 5 of #100DaysOfData Challenge**
 
 Finally, I beat the pattern extraction issue I was having, and it has been thanks to some essential debugging tips I learnt from the book. However, today most than any, I feel how important it is to settle down the learnings.
