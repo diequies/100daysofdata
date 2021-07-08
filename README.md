@@ -4,6 +4,7 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | Projects |
 | -------- |
 | 1. [**Zoopla London Houses Price Prediction from Scratch**](https://github.com/diequies/zoopla_houses) |
+| 2. [**Building A Recommendation System For Cognitive Exercises and Training Programs**](https://omdena.com/projects/cognitive-exercises/) |
 
 | Course and Certifications |
 | ------------------------- |
@@ -12,6 +13,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | Books and Papers |
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+---
+
+### **Day 8 of #100DaysOfData Challenge**
+
+Today I had the kick-off meeting of the new project I am involved in, with [**Omdena**](https://omdena.com/). For those who do not know what **Omdena** is, it is an *NGO* focus on *AI* and *ML* for good. Apart from that, I could work a little bit on my personal project.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). The little time I had today for this project, I reviewed the data I currently had cleaned it. Remove or complete missing values, remove useless or already used features, etc. For tomorrow I hope I can find some time to start extracting various features from *features* and *description* texts, such as parking, tenure, etc.
+2. **Project**: [**Building A Recommendation System For Cognitive Exercises and Training Programs**](https://omdena.com/projects/cognitive-exercises/) Today was the meeting with the company with which we will work to understand better the goals and requirements of the project or product. The project aims to develop a machine learning algorithm that recommends cognitive exercises and training to people in mental treatment to improve their condition. One of the keys is that it must take into account implicit feedback from the user. So far, I have started by reading different papers and resources suggested as my knowledge is really limited in this field. Also, I am very interested in the way *Omdena* works, with huge freedom and a completely horizontal hierarchy.
 
 ---
 
