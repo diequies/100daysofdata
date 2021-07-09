@@ -6,13 +6,23 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | 1. [**Zoopla London Houses Price Prediction from Scratch**](https://github.com/diequies/zoopla_houses) |
 | 2. [**Building A Recommendation System For Cognitive Exercises and Training Programs**](https://omdena.com/projects/cognitive-exercises/) |
 
-| Course and Certifications |
+| Courses and Certifications |
 | ------------------------- |
 | 1. [**2021 Python for Machine Learning & Data Science**](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) |
 
 | Books and Papers |
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+---
+
+### **Day 9 of #100DaysOfData Challenge**
+
+On the first day being part of **Omdena**'s project, I have spent most of the time reading and learning as basically it is my first time in almost all the facets of the project. Also, I kept working on my personal project and reading the book slowly but steady.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Once I cleared my issues with pattern extraction, I have been able to progress at a good pace. Today I have completed the feature extraction from text features and almost finished cleaning and filling missing values. My plan for tomorrow is to finish the dataset and create the SQL database, which won't be easy as I have never done it.
+2. **Project**: [**Building A Recommendation System For Cognitive Exercises and Training Programs**](https://omdena.com/projects/cognitive-exercises/) On the first day of the project, I explored and read all I could from **Omdena**'s internal resources, mainly Git procedures and other articles for data flow and treatment. Also, I have read many articles and papers for recommendation systems, but as it is the first time I face this sort of project, I still need to learn a lot. So my plan for tomorrow is to finish with the internal resources, keep learning about recommendation systems and find any valuable resource that I can share with the team. So far, I am finding quite challenging the interaction and the way of working, but I am sure that soon I will get used to and be able to collaborate more and better.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): Today I started the *NumPy* chapter, and again, as it starts from the basics, I am learning a lot. Also, I am understanding now some issues I was having because I did not have the knowledge adequately settled. Today's readings were focused on why *NumPy* is faster than normal *Python* and the data types handled as a *NumPy* array.
 
 ---
 
@@ -30,7 +40,7 @@ Today I had the kick-off meeting of the new project I am involved in, with [**Om
 After loads of effort and incredibly huge learning, not only on pattern extraction but also about flow and data types, I managed to get the best possible quantity of floor area records. I spent almost the day finalizing the code, but I could read something at the end of the day.
 
 1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Today, I improved yesterday's mark of 26% to 40% of floor area feature records. It means that I have around 20k houses with floor area information out of 50k houses. However, I don't think it is enough to fill the missing values, so that I will drop the NaN values rows. Also, a sample of 20k houses with a total population of 50k seems enough to make reliable predictions. The next step is to finalize the feature extraction from text features and clean the data before storing it in a SQL server.
-3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): I couldn't read as much as I wish, but at least I finished *IPython* chapter, being surprisingly didactic. From tomorrow, I will start reading the *NumPy* chapter, and hopefully I can grasp deep knowledge on this library.
+2. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): I couldn't read as much as I wish, but at least I finished *IPython* chapter, being surprisingly didactic. From tomorrow, I will start reading the *NumPy* chapter, and hopefully I can grasp deep knowledge on this library.
 
 ---
 
