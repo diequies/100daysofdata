@@ -16,6 +16,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 10 of #100DaysOfData Challenge**
+
+Even though I was focused today to gain knowledge for **Omdena**'s project, I also managed to finalise Zoopla data extraction on my personal project for house pricing prediction. Additionally, as every day, I spend some time reading the book.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). I have finalised data extraction and processing from Zoopla. It has been very tedious, mainly because web scrapping was very slow; I was scrapping information from more than 50k houses (and therefore webpages). Also, the quality of the data encoded was relatively low, and I had to complement it using complex pattern extraction. I am sure that with NLP techniques, it would be much easier. The next step is to add information about the location of the house. I am thinking of something like the closest station, supermarket, etc. and the distance in time.
+2. **Project**: [**Building A Recommendation System For Cognitive Exercises and Training Programs**](https://omdena.com/projects/cognitive-exercises/) Today I have been reviewing articles and papers provided by **Omdena** and some shared by the team collaborators. I could also find an interesting survey paper ([link](https://arxiv.org/pdf/2101.06286.pdf)) summarizing some techniques for recommender systems using reinforcement learning and deep learning. So far, it is out of my capabilities, but I found it interesting, and the team might be able to extract values from it. I would be delighted to learn how to implement this kind of model during the project. Tomorrow we have our first meeting to frame the problem, and hopefully, the first task will flourish.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): I continued with the *NumPy* chapter, basically the fundamental operations and why they are different from normal Python. Also, it is reviewing the *ufuncs*, which gives me a good idea of *NumPy* capabilities and a reference to use in my code.
+
+---
+
 ### **Day 9 of #100DaysOfData Challenge**
 
 On the first day being part of **Omdena**'s project, I have spent most of the time reading and learning as basically it is my first time in almost all the facets of the project. Also, I kept working on my personal project and reading the book slowly but steady.
