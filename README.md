@@ -14,6 +14,18 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+
+---
+
+### **Day 12 of #100DaysOfData Challenge**
+
+Quite an intense day today. We had our first team meeting with **Omdena**, I still feel pretty lost, but it is improving. Also, I made the first step forwards on Overpass Turbo API, although still far from what I want.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Today, I had almost no time to invest in this project but, still, I have managed to make some progress using [*Overpass Turbo API*](https://overpass-turbo.eu). I can get now, for each house, using its coordinates, the tube stations within a specific range. The loop is relatively slow, and also I am still playing with the API timeouts. Currently, I am waiting 1 second per request, but I guess I will need to increase that. Once I get the stations related to each house, I have to find a way to estimate its walking distance and select the shortest one. I believe I won't be able to do it with Overpass Turbo API, but I am sure that there are resources out there to do it.
+2. **Project**: [**Building A Recommendation System For Cognitive Exercises and Training Programs**](https://omdena.com/projects/cognitive-exercises/). Today, we had our first team meeting, and I wish I was more participative and that we could get more output from it. However I could improve my problem understanding and could suggest one task. This task is to create the dataset via survey, it is quite simple from a Data Science point of view, but it requires time and some research to avoid bias and get the required output. Tomorrow I will draft a path and some possible sub-tasks to propose.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). I keep going with the *NumPy* chapter, now it is going deeper, and it is showing how to do fancy indexing, binning or sorting using *NumPy*. Slow progress, but progress it is.
+4. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). I completed the capstone exercise, where we had to use what we have learnt so far from *NumPy*, *Pandas*, *Matplotlib* and *Seaborn*. It was not so difficult but very useful to settle the previous work.
+
 ---
 
 ### **Day 11 of #100DaysOfData Challenge**
