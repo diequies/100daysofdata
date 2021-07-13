@@ -12,8 +12,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 | Books and Papers |
 | ---------------- |
-| 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/)
+| 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 
+---
+
+### **Day 13 of #100DaysOfData Challenge**
+
+Today I found difficult to spend time in my Data Science project of life but as a minimum I had 2h working on **Omdena** project and just a little bit on my house pricing project. 
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). I am a little bit stuck with [*Overpass Turbo API*](https://overpass-turbo.eu), as it seems it is giving me problems because of too many attempts. I am trying different ways, like sleep time to wait between requests. Tomorrow I will keep trying other methods.
+2. **Project**: [**Building A Recommendation System For Cognitive Exercises and Training Programs**](https://omdena.com/projects/cognitive-exercises/). Today we made a clear statement of the task we have been assigned, data-set acquisition, and specified the different methods we believe we can use to solve the task. While we wait for the data from the partner to decide the best approach, I will start looking for information and a baseline for each.
 
 ---
 
