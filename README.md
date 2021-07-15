@@ -16,6 +16,17 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 15 of #100DaysOfData Challenge**
+
+I have started to outline the expected data set for **Omdena**'s project and shared it with the team. So far, it is pretty disorienting, but I feel now that very slowly, things are getting more clear. Also, I keep progressing in my personal project of house pricing prediction.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). I have started to study the next step in this project, to calculate the walking time to go from the house to the closest station. I will use a different API that also connects with *OpenStreetMap*, called [*OpenStreetMap Routing Machine API*](http://project-osrm.org/). It looks quite straightforward; I have already started to review the documentation and almost have the expected output with a few lines of code. Tomorrow I plan to finalise this part of the code to identify the closest tube station and input the walking time.
+2. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today's main focus was to present the data set sample I outlined to the team and ask the questions that came up to Nestre. In addition, Nestre shared the wire-frame of their app to clarify a bit their requirements, and of course, it generated more questions to add. Based on their replies, I expect to progress tomorrow with the data set outline.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). During the last two days, I have finalised the *Numpy* chapter, and I have learned a lot, about the essential functions and some whys that are very insightful. However, at the end of the chapter, there are more complex functions and explanations that I found less useful, although it seems just the introduction to the next chapter about *Pandas*.
+4. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today I have started the regression module, it is the longest one, so probably it will take some days to cover it. But, I am very interested in it because even though I have already studied them, my personal project will probably be the first time I put them into practice.
+
+---
+
 ### **Day 14 of #100DaysOfData Challenge**
 
 Another day spent on **Omdena**'s project, trying to put in order ideas. My main roadblock with the data-set acquisition is that I am not really sure of what comes next.
