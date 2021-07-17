@@ -16,6 +16,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 16 of #100DaysOfData Challenge**
+
+Preparation day for the first weekly update, as a task leader I need to report what we have done so far. Also I am trying to find alternatives for my personal project, instead of relying too much on API such as [*Overpass Turbo API*](https://overpass-turbo.eu).
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Because of the limitation in requests of [*Overpass Turbo API*](https://overpass-turbo.eu), I need to find an alternative to be able to find the closest station and its walking distance in time for around 20k houses. My plan is instead of request the information regarding the closest train stations to the API a will create a list of the tube stations with the cordinates and pick the 2-3 closest for each house, and then request to an API this walking distance information using coordinates.
+2. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today I had to prepare the presentation of my task's progress, it is being quite difficult as the steps are really unclear and the progress has been very limited. But I will try to explain progress and challenges with the objective of increase our understanding with Nestre.
+
+---
+
 ### **Day 15 of #100DaysOfData Challenge**
 
 I have started to outline the expected data set for **Omdena**'s project and shared it with the team. So far, it is pretty disorienting, but I feel now that very slowly, things are getting more clear. Also, I keep progressing in my personal project of house pricing prediction.
