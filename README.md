@@ -16,6 +16,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 17 of #100DaysOfData Challenge**
+
+Thanks to communication, today, we improved our understanding of Nestre requirements. Communication is always a key in team working and more in inter-companies working. In addition, some more progress in house pricing prediction, a new method, less API intensive.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). The method I am using to get the closest tube station and the walking time between the station and the house is to select the two smallest euclidian distances (using coordinates) between the house coordinates and a list of all stations coordinates. Then to confirm the closest and find the walking time, I am using the [*MapBox API*](https://www.mapbox.com/), which is more dynamic and allows more and higher frequency requests.
+2. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today we had an insightful meeting, Nestre started to share a bit more information, which made the things clearer. Unfortunately, with this new information, the model and data set that we outlined changed slightly, so now we have to re-study. Also, I presented the task in front of the people, it was good, but I got no feedback.
+
+---
+
 ### **Day 16 of #100DaysOfData Challenge**
 
 Preparation day for the first weekly update, as a task leader I need to report what we have done so far. Also I am trying to find alternatives for my personal project, instead of relying too much on API such as [*Overpass Turbo API*](https://overpass-turbo.eu).
