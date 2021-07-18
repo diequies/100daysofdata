@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 18 of #100DaysOfData Challenge**
+
+First contact with GitHub as a collaborator in a collective project. Today I had to learn how to create new branches and how to push my work without overwriting others work.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today I started the EDA on the only data set we could find. This is my first non-guided EDA, and I have to say that it is difficult to decide where and how to start. So far, it is a bit of a mess, but I could find some interesting points. The only drawback is that I have to correct it to allow other people to understand it. Also, as my first adventure in GitHub collaboration I deleted my own notebook, and unfortunately, I will need to start again tomorrow.
+
+---
+
 ### **Day 17 of #100DaysOfData Challenge**
 
 Thanks to communication, today, we improved our understanding of Nestre requirements. Communication is always a key in team working and more in inter-companies working. In addition, some more progress in house pricing prediction, a new method, less API intensive.
