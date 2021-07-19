@@ -14,6 +14,12 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 
+### **Day 19 of #100DaysOfData Challenge**
+
+Day fully focused on **Omdena**'s project, basically trying to perform EDA to the best data set we have found. I did not have time to spend in any other of my "tasks".
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today I started again EDA activity on the Lumosity data set. In some way, it was good to lose the initial notebook as now I am doing it better from the beginning. Today I made the main DataFrame merging the three originals and dealt with missing values. Also, I found that the values of a feature I want to compare had loads of outliers, therefore I removed them. For tomorrow I want to normalize the values so they are comparable.
+
 ---
 
 ### **Day 18 of #100DaysOfData Challenge**
