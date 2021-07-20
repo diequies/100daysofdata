@@ -14,6 +14,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 
+### **Day 20 of #100DaysOfData Challenge**
+
+Another day focused on **Omdena**'s project; I know this weekend I will not be able to work as much, so I am trying to increase the work to meet the weekly hours I committed.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today I have finalized the EDA I was conducting in the Lumosity data set. I could find some interesting insight valuable when we have to prepare our own data set. I had some difficulties dealing with outliers and other modifications on a feature that contains a high level of granularity, for example, game results, including all game types. Tomorrow we have another Q&A meeting with Nestre to finalize framing the problem. Also I will summarize my findings on the EDA and post them to Slack.
+
+---
+
 ### **Day 19 of #100DaysOfData Challenge**
 
 Day fully focused on **Omdena**'s project, basically trying to perform EDA to the best data set we have found. I did not have time to spend in any other of my "tasks".
