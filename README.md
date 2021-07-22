@@ -14,6 +14,20 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 
+---
+
+### **Day 21 of #100DaysOfData Challenge**
+
+Not a coding day, sometimes there is more progress when we don't touch any code... More discussions today to clarify and frame **Omdena**'s project and also some videos to complete linear regression module.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). The main activity today has been to prepare the meeting with NESTRE and then to try to extract as much information as we could. It is being really complicated to find the best way forwards, it feels that every time we have a meeting everything changes and we need to start over. But it feels we are closer now, tomorrow I will summarize everything and try to create sub-tasks for better organization.
+2. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today I finished the linear regression module. Hopefully I can apply this new knowledge in my personal project soon. We have learn then next types of regression:
+   - Univariate and multivariate simple regression: This is the most basic way to do regressions, just a line that tries to find the best fit for the targe variable using all the features.
+   - Polynomial regression: In this regression type we increase the features by adding relations between features and higher grade features. Very interesting but dangerous to overfit.
+   - Lasso, Ridge and Elastic Net regressions: To handle the overfitting problem we add a correction factor (depends on the type, we use a different type of factor or a combination) that will add noise, so we can handle better new data.
+
+---
+
 ### **Day 20 of #100DaysOfData Challenge**
 
 Another day focused on **Omdena**'s project; I know this weekend I will not be able to work as much, so I am trying to increase the work to meet the weekly hours I committed.
