@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 22 of #100DaysOfData Challenge**
+
+Again not a coding day and also, not a great day for my data science progression. I am about to go on holidays and, even though I will keep working on **Omdena**'s project, I will stop almost anything else to enjoy a couple of weeks of holidays.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). After the new and better understanding of the problem to solve, we have decided to pivot the data acquisition task. The main reason is that we have determined that it is not possible to create a training data set because we do not have the list of items to recommend. Therefore, now the objective is generate a data set for testing and demo the API. It needs to be realistic and with some logic and limitations, but it does not need to be real. Tomorrow I will finish to draft the first data set and create the document to explain it.
+
+---
+
 ### **Day 21 of #100DaysOfData Challenge**
 
 Not a coding day, sometimes there is more progress when we don't touch any code... More discussions today to clarify and frame **Omdena**'s project and also some videos to complete linear regression module.
