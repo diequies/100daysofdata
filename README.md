@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 23 to 29 of #100DaysOfData Challenge**
+
+I have been on holidays from day 23 and I will still be until the day 39. But I kept doing at least something related to Data Science all these days, I have been working mainly in **Omdena**'s project to keep up with my commitment.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). During this week I have been focused organizing the task I have been assigned, to generate synthetic data. As it is the first step, we need to have an initial output to allow the rest of teams to start working. The challenging point is that there are many rules to comply but very little information from the company, but during the week we have improve a lot. Currently we have some initial data sets and outlined most of the rest of data sets. For next week we should complete all the outlines and have a data set for most.
+
+---
+
 ### **Day 22 of #100DaysOfData Challenge**
 
 Again not a coding day and also, not a great day for my data science progression. I am about to go on holidays and, even though I will keep working on **Omdena**'s project, I will stop almost anything else to enjoy a couple of weeks of holidays.
