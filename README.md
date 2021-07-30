@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 30 of #100DaysOfData Challenge**
+
+As I am still on holidays, my time for data science is reserved to **Omdena**'s project. If I can I will try to progress in other areas as well.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today was quite challenging to keep up with the feedback to our initial data sets generated. Organize the sub-tasks, give the feedback to the appropriate people takes most of the time. But actualy is the best way forwards, with this organization the team is confident to work in the same direction and the progress is better.
+
+---
+
 ### **Day 23 to 29 of #100DaysOfData Challenge**
 
 I have been on holidays from day 23 and I will still be until the day 39. But I kept doing at least something related to Data Science all these days, I have been working mainly in **Omdena**'s project to keep up with my commitment.
