@@ -16,6 +16,17 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 31 to 40 of #100DaysOfData Challenge**
+
+Unfortunatelly the holidays had come to its end, and now I am back to work. During this days I kept focusing on **Omdena**'s project and also had some time to progress in the course. 
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). During these days we have had a lot of progress on data generation task. We have finalized the initial data sets generation, a total of 17 tables, and now we are moving to the next step. As a deliverable we have to create a synthetic database in MySQL, we have started to created the hosting (in AWS) and its structure. And now and for the next days we have to modify the code to populate the MySQL database instead of just output a CSV. I will take this opportunity to practice database creation and maintenance in MySQL.
+2. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). During these 9 days I have completed the next modules:
+   - Data cleaning adn feature enginering: The course goes over some of the most common techniques to deal with missing values, with outliers, normalize the values, etc.
+   - Cross validation: In this module, the course introduces cross validation techniques using scikit learn. Even though it doesn't go through to the most up to date and best cross validation methods, it is more than enough to fully understand the purpose and the technique.
+
+---
+
 ### **Day 30 of #100DaysOfData Challenge**
 
 As I am still on holidays, my time for data science is reserved to **Omdena**'s project. If I can I will try to progress in other areas as well.
