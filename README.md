@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 41 of #100DaysOfData Challenge**
+
+I had to spend the day understanding and creating with other colleagues of the **Omdena** project, the mid-term document. We have completed half of the term for the project, 4 weeks, and we have to present to the partner our progress towards the planned derivables.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). My assigned task is more than half way completed, during these days I am trying to progress as much as possible to completed and be able to move to other tasks. Hopefully I can join some of the machine learning groups before finishing the project.
+
+---
+
 ### **Day 31 to 40 of #100DaysOfData Challenge**
 
 Unfortunatelly the holidays had come to its end, and now I am back to work. During this days I kept focusing on **Omdena**'s project and also had some time to progress in the course. 
