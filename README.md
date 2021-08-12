@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 42 of #100DaysOfData Challenge**
+
+Another busy day. I have been focused completely on **Omdena** project, mainly organizing and refining the mid-term presentation.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Even though I have been focused in non-coding stuff, I could start the correction of part of my code. Some assumptions changed and they affect to this code, now I understand how useful is to code in a modular way with functions. I need to learn to code with OOP.
+
+---
+
 ### **Day 41 of #100DaysOfData Challenge**
 
 I had to spend the day understanding and creating with other colleagues of the **Omdena** project, the mid-term document. We have completed half of the term for the project, 4 weeks, and we have to present to the partner our progress towards the planned derivables.
