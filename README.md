@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 43 of #100DaysOfData Challenge**
+
+Lately I am struggling to spend time in other things than the **Omdena** project, I guess it is because we are in the highest moment of the sub-task, but I need to find time to progress on the other items.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today I have been correcting some code and I had some issues with an apply function. I need to review why an apply function gives the error of too many values, in my understanding it just gets one value.
+
+---
+
 ### **Day 42 of #100DaysOfData Challenge**
 
 Another busy day. I have been focused completely on **Omdena** project, mainly organizing and refining the mid-term presentation.
