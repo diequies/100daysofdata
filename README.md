@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 44 of #100DaysOfData Challenge**
+
+Today has been a very productive day, I coded a lot, not only in Python but also in SQL, and mainly for the **Omdena** project. Hopefully as part of the ramping up, I re-start also my personal project of London house pricing.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today we have completed the sub-task related with MySQL database. I have almost zero knowledge on SQL and it has helped me to learn. I will try to finish MySQL by today. We still have to create MySQL views, which is something I have no idea.
+
+---
+
 ### **Day 43 of #100DaysOfData Challenge**
 
 Lately I am struggling to spend time in other things than the **Omdena** project, I guess it is because we are in the highest moment of the sub-task, but I need to find time to progress on the other items.
