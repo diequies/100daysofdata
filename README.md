@@ -16,6 +16,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 46 of #100DaysOfData Challenge**
+
+Finally I had the chance to re-start my side project of London houses pricing, not without difficulties... Also I keep the progress with **Omdena** project at the end of the 5th week.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Now I have started to document the process we have followed to generate the data. It is the first time I have to create software documentation, new thing to learn. So far *Markdown* code is being really useful.
+2. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). The first day coming back to this project after some weeks. First point I have realized is that my comments were not enough, I needed too much time reviewing the code to get up to speed. If I were someone out of the code, it would be impossible for me to work on that code. Another issue I had today is involving *GitHub*. Before holidays I commited I huge amount of updates, including a *CSV* file of more than 100MB, which is not permitted by *GitHub*. I found myself in a roundabout where I couldn't push my changes but also I couldn't un-commit the change. I had to start again almost a new repository to solve this issue, but the lesson is, commit small changes and with care.
+
+---
+
 ### **Day 45 of #100DaysOfData Challenge**
 
 Another productive day working mainly in SQL for **Omdena** project. Sadly I have not been able to progress in any of my side projects, I need to make an effort to distribute the time.
