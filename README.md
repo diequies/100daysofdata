@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 47 of #100DaysOfData Challenge**
+
+Today I just worked on **Omdena** project, I had not much time to spend in Data Science. But, it has been a useful time. We have had two meetings to organize and then I started a new important sub-task.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). As I said, today I moved to a new part of the data generation. Now I am trying to generate meaningful data, to do so,  have started by finding clusters in users data. I plan to apply some different cluster algorithms and compare the results and then try to visualize the results using PCA (Principal Component Analysis).
+
+---
+
 ### **Day 46 of #100DaysOfData Challenge**
 
 Finally I had the chance to re-start my side project of London houses pricing, not without difficulties... Also I keep the progress with **Omdena** project at the end of the 5th week.
