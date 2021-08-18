@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 48 of #100DaysOfData Challenge**
+
+Today I just worked on **Omdena** project, we had some feedback about the database and also I wanted to progress with the clustering code. Now it really feels like we are in the last weeks of the project and we have some pressure to finish at least a first prototype
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today, the most interesting I did was start with the clustering code. I plan to test different algorithms and also I had the challenge to find a good way to visualize the clusters. Today I fixed this last point, using *t-distributed Stochastic Neighbor Embedding* (*TSNE*) I can reduce the dimensions to fit in a 2D or 3D plot. I tried also *PCA* and *NMF* but the  result is not as good, the clusters were not clearly visible. Also I tried K-Means algorithm for clustering, but before digging a bit more, the results do not look very reliable. Tomorrow I hope I can try other algorithms.
+
+---
+
 ### **Day 47 of #100DaysOfData Challenge**
 
 Today I just worked on **Omdena** project, I had not much time to spend in Data Science. But, it has been a useful time. We have had two meetings to organize and then I started a new important sub-task.
