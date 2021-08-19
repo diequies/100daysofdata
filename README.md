@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 49 of #100DaysOfData Challenge**
+
+I focused today on the clustering problem to generate meaningful data for our **Omdena** project. I couldn't spend time in other parts of my objectives, but I could learn limitation and difficulties of cluster algorithms.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). My plan was to find a number of clusters and be able to represent them using t-SNE, but I end up doing something completely different. First t-SNE does not give you components, therefore it is not possible to explain or understand the logic behind. Also, when I tried to do clusters using demographic and geographic data, I found that they were, at least initially, incompatible. If I used geographical data, the cluster had worse defined demographic characteristics and a meaningless spatial distribution. To have a quick solution, I have conducted an initial clustering with demographics and a second one with geographic data. It is not ideal but it worked quickly, if I had I would have study the spatial distances and tried to optimize the algorithm to use. 
+
+---
+
 ### **Day 48 of #100DaysOfData Challenge**
 
 Today I just worked on **Omdena** project, we had some feedback about the database and also I wanted to progress with the clustering code. Now it really feels like we are in the last weeks of the project and we have some pressure to finish at least a first prototype
