@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 50 of #100DaysOfData Challenge**
+
+Midway of the challenge, I believe I was expecting more progress but with 14 holidays in between and working full time in another job, it has been really difficult. Today I could spend most of the day coding for our **Omdena** project, which is important to learn.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Yesterday I finalize my clustering code, I believe it is not very orthodox, but I fulfills the objective I had. As I wanted a specific number of clusters, I had to diverge from what was the most accurate. But now I am moving to create historical data with those clusters, I have good expectatives about this.
+
+---
+
 ### **Day 49 of #100DaysOfData Challenge**
 
 I focused today on the clustering problem to generate meaningful data for our **Omdena** project. I couldn't spend time in other parts of my objectives, but I could learn limitation and difficulties of cluster algorithms.
