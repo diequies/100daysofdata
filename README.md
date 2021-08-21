@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 51 of #100DaysOfData Challenge**
+
+Today we had a sort of alignment sprint, being my first project in this industry it is very insightful for me to see how different are the processes and management. Again, and probably until my task finishes, I will keep focus in **Omdena**.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today I kept progress in my code to generate meaningful data. The code is nothing special but it uses a big variety of functions. I have to generate controlled random values with loads of constraints. My plan is to finish tomorrow or at least before the end of the weekend. 
+
+---
+
 ### **Day 50 of #100DaysOfData Challenge**
 
 Midway of the challenge, I believe I was expecting more progress but with 14 holidays in between and working full time in another job, it has been really difficult. Today I could spend most of the day coding for our **Omdena** project, which is important to learn.
