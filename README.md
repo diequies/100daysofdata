@@ -16,6 +16,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 53 of #100DaysOfData Challenge**
+
+The focus of today was **Omdena** project, but I managed to get some time also to see some videos of the python course. I need to start to distribute the time again between all four items.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today I finalized the last deliverable of my task, meaningful synthetic data. From now I have to complete the documentation and then I will try to move on to support other tasks and try to learn. This is the last sprint.
+2. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today I have also completed the Logistic Regression module, it covered not only the normal Logistic Regression, but also multi-class classification with Logistic Regression. The logic of consecutive algorithms is really interesting.
+
+---
+
 ### **Day 52 of #100DaysOfData Challenge**
 
 Today was a mostly relaxing day, although I still spent some hours in **Omdena** project to progress it. 
