@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 54 of #100DaysOfData Challenge**
+
+The main point today was to adapt some feedback I had for my **Omdena** task and then start creating documentation. I learn today that the notebooks are very useful to show your work but from coding point of view, it is difficult to keep the flow and when someone else wants to run the same code, either they follow the same order or it wouldn't work. I should move to script and OOP.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Main task today, documentation, it is boring but it is useful to review the code, detect problems and also bad quality in the code. I should work in improve the quality of my code, probably reviewing other **Omdena** people's code would help me with that.
+
+---
+
 ### **Day 53 of #100DaysOfData Challenge**
 
 The focus of today was **Omdena** project, but I managed to get some time also to see some videos of the python course. I need to start to distribute the time again between all four items.
