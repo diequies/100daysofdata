@@ -16,6 +16,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 55 of #100DaysOfData Challenge**
+
+Today I managed to not only progress in **Omdena** project, but also to take back again my personal project on London house prices prediction. It is being difficult to find the time, but I should manage it better.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Main focus for todays has been to solve a bug I had in my task code and then keep going with the documentation. As I see it, I believe that it should be finished by today or tomorrow.
+2. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Definitely I need to start documenting my project. Every time I take it back, I need at least 30 mins to remind myself how it was working. My main issue now is the *Overpass Turbo API*, it is not meant to be used for too many requests and gives me error too frequently. I have to find an alternative.
+
+---
+
 ### **Day 54 of #100DaysOfData Challenge**
 
 The main point today was to adapt some feedback I had for my **Omdena** task and then start creating documentation. I learn today that the notebooks are very useful to show your work but from coding point of view, it is difficult to keep the flow and when someone else wants to run the same code, either they follow the same order or it wouldn't work. I should move to script and OOP.
