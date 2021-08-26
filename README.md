@@ -16,6 +16,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 56 of #100DaysOfData Challenge**
+
+Less time to code today, but I spent the whole time at **Omdena** project solving some structural problems. Also I started to look to the main code, but so far, it looks too complicated. I definitely need to learn coding skills.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). While doing the documentation, specifically the pipeline to generate the data, I realized that it was too complicated, too many code files and not with the correct flow. So I spent the day re-structuring the code and making a smooth pipeline, now it is much easier to explain and therefore easier to go through. Tomorrow I will try to complete the documentation.
+
+---
+
 ### **Day 55 of #100DaysOfData Challenge**
 
 Today I managed to not only progress in **Omdena** project, but also to take back again my personal project on London house prices prediction. It is being difficult to find the time, but I should manage it better.
