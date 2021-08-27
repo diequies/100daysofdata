@@ -16,6 +16,13 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 57 of #100DaysOfData Challenge**
+
+Another day focused in documentation, probably the last one, but then I will need to find another task in **Omdena**. The most likely is that I will try to understand the rest of the code, although it is very high level.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Nothing special today, just kept writing the documentation of my Task. Now it is almost finished, I don't think it will reveal more problems in the code. I need to find the next steps.
+---
+
 ### **Day 56 of #100DaysOfData Challenge**
 
 Less time to code today, but I spent the whole time at **Omdena** project solving some structural problems. Also I started to look to the main code, but so far, it looks too complicated. I definitely need to learn coding skills.
