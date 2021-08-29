@@ -16,6 +16,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 58-59 of #100DaysOfData Challenge**
+
+I aggregate days 58 and 59 because, even though I could spend time in data science, the progress was no so high. I could increase the items I am focusing on, now I have active both projects and the book again.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). During these days I kept re-organizing, tidying up the code and completing the documentation. We are on our last week and it seems we would have to do a walkthrough of our code.
+2. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Finally I found an alternative API to request pub and restaurants information, it is called **OSMNX** and still uses Open Street Maps. But in this case handles better the timeouts in hardly fails. It is still quite slow, probably a couple of days to gather the info of 18k houses.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). It has been I while since the last time I read the book. These days I progressed in the *Pandas* chapter, specifically using *groupby* and *pivot_table*. They are quite basic functions of *Pandas*, but I could learn a some further functionalities quite interesting. Also, how they work internally. Understanding their internal pipeline, makes easier to understand what actually happens when you call them. In summary, it splits the data by the varieble we specify, then apply the function (sum, mean, min, etc.) and finally combine the data again.
+
+---
+
 ### **Day 57 of #100DaysOfData Challenge**
 
 Another day focused in documentation, probably the last one, but then I will need to find another task in **Omdena**. The most likely is that I will try to understand the rest of the code, although it is very high level.
