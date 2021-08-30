@@ -9,10 +9,21 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | Courses and Certifications |
 | ------------------------- |
 | 1. [**2021 Python for Machine Learning & Data Science**](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) |
+| 2. [**Python Programming datacamp Skill Track**](https://learn.datacamp.com/skill-tracks/python-programming?version=2)
 
 | Books and Papers |
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
+
+---
+
+### **Day 60 of #100DaysOfData Challenge**
+
+Today I started a skill track in datacamp, *Python Programming*, I definitely want to improve my coding skills a part from Data Science skills. Also could manage to spend some time in my **Omdena** project and with the Python book.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Not a huge progress, added the last scripts to the documentation and re-organized a bit the folder to be more clear. My next step would be to support the demo task, I will propose some ideas.
+2. **Course**: [Python Programming datacamp Skill Track](https://learn.datacamp.com/skill-tracks/python-programming?version=2). Completed the first two modules of the initial course (Writing efficient python code), it went through the basic of the efficiency in Python and how to measure the time and space used by our code using *line_profiler* and *memory_profiler*.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). Today I read mainly about string functions in *Pandas*. How to vectorize string actions and what functions are available, including some very useful *regular expressions* that I used in my personal project.
 
 ---
 
