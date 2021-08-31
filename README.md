@@ -17,6 +17,17 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 61 of #100DaysOfData Challenge**
+
+Today was a productive day, I had a lot of time to spend and I could progress with the new course, the book and also thinking in the new task for **Omdena**. We are almost finished, so everyone is trying to finalize their tasks.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today I just explained a couple of ideas of how to demo our models. I did not have a huge interest from the other people, it is actually a lower priority, but I will prepare some databases to be able to explain the idea better.
+2. **Course**: [Python Programming datacamp Skill Track](https://learn.datacamp.com/skill-tracks/python-programming?version=2). Today I completed the course I started yesterday, *Writing efficient python code*, and also the next one, *Writing efficient code with Pandas*. They were not exactly what I was looking for, but they have been very helpful. Now I understand how to use quite common Python functions to have faster and more efficient code, also with *pandas*. I need to put in practice what I learnt, otherwise I will forget it.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). The part I read today was all about Date and Time functions and data types. It explains how base *Python* handles it with some limitations on efficiency, *NumPy* also do but with some limitations in functionalities and finally *Pandas* combines the best of both sides. I need to make a time series project to put in practice all these functions.
+4. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today I finished the *K Nearest Neighbors (KNN)* algorithm module. It is interesting because it is very simple and easy to understand, it would be perfect to explain results to people out of the field. Although it has many limitations in terms of performance, mainly if we want to apply to regression or in classification problems with high dimensionality. The next module is *Support Vector Machines (SVM)*, which is quite interesting but also more complicated and intense in maths.
+
+---
+
 ### **Day 60 of #100DaysOfData Challenge**
 
 Today I started a skill track in datacamp, *Python Programming*, I definitely want to improve my coding skills a part from Data Science skills. Also could manage to spend some time in my **Omdena** project and with the Python book.
