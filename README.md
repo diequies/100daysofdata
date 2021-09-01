@@ -17,6 +17,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 62 of #100DaysOfData Challenge**
+
+Today I couldn't spend too much time on coding and data science, mainly I corrected some problems in **Omdena** database and also spent some time translating code from *R* to *Python* for Maria's Phd.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Just some minor corrections in variable types and I guess some more corrections coming in the future.
+2. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Pub and restaurands around the house in 1km diameter feature is completed, has taken probably too long through the API but I cannot think in a better way. Now I started with education buildings, and I guess it will get the same amount of time. I am seeing that I will spend the month just waiting for the API to download everything I need...
+
+---
+
 ### **Day 61 of #100DaysOfData Challenge**
 
 Today was a productive day, I had a lot of time to spend and I could progress with the new course, the book and also thinking in the new task for **Omdena**. We are almost finished, so everyone is trying to finalize their tasks.
