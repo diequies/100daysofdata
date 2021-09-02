@@ -17,6 +17,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 63 of #100DaysOfData Challenge**
+
+Today has been a bit of mixed day, I didn't have too much time and I spent it half in Maria's code and the other half divided between **Omdena** project and both courses I am doing.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Mainly I have been tracking current discussions and tried to read about how to divide the database in training/test/validate sets. In recommedation systems, the way we do it is completely different. Tomorrow I will continue reasearching.
+2. **Course**: [Python Programming datacamp Skill Track](https://learn.datacamp.com/skill-tracks/python-programming?version=2). Today I started the course of *Writing functions with Python*. I already knew how to write a very basic function, but it includes details of how to document, what variables are and how they behave in the context, etc. Tomorrow I will do the decorators part, in which I have quite a lot of interest.
+3. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Also started the *SVM* module of *Udemy* course. We have covered the theory part, where they explain from the basic linear support vector to the use of Kernels to separate the different classes. Having different kernels in the algorithm and each kernel different parameters, it is a model where the hyperparameter tunning with cross validation is very important, as well as to normalize the features as the algorithm uses the space distances.
+
+---
+
 ### **Day 62 of #100DaysOfData Challenge**
 
 Today I couldn't spend too much time on coding and data science, mainly I corrected some problems in **Omdena** database and also spent some time translating code from *R* to *Python* for Maria's Phd.
