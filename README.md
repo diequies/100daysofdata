@@ -17,6 +17,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 64 of #100DaysOfData Challenge**
+
+Not a very productive day in regards of coding, probably the most useful has been to complete a Datacamp course about decorators.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today we had a code walkthrough with the partners, I didn't completely understand what was the meaning of it. My presentation was too detailed, but once I got the feedback, everything improved. From now I know what a code walkthrough is.
+2.  2. **Course**: [Python Programming datacamp Skill Track](https://learn.datacamp.com/skill-tracks/python-programming?version=2). Today I completed the course to write functions in python, the first part was quite straightforwards but then, once they introduced the decorators it got much more interesting. The decorators are functions that modify other functions, I know now how it works but I need to find a use and apply it to settle the knowledge.
+
+---
+
 ### **Day 63 of #100DaysOfData Challenge**
 
 Today has been a bit of mixed day, I didn't have too much time and I spent it half in Maria's code and the other half divided between **Omdena** project and both courses I am doing.
