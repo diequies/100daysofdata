@@ -17,6 +17,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 65 of #100DaysOfData Challenge**
+
+Unfortunately, today I had an issue with Visual Studio and one notebook that seemed to be corrupted. Basically, I spent most of the time trying to solve the problem, finally I had to copy the code itself in a new notebook. The small amount of remaining time I could spend it in **Omdena** project.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). During the code walktrough I realized that the meaningful data I was generating was biased. When I assigned the joining date to each user, I was doing it in order but as the users were already sorted by state, the result was that the user were joining in groups per state.
+
+---
+
 ### **Day 64 of #100DaysOfData Challenge**
 
 Not a very productive day in regards of coding, probably the most useful has been to complete a Datacamp course about decorators.
