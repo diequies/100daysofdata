@@ -17,6 +17,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 66 of #100DaysOfData Challenge**
+
+As today I had many personal appointments I just could spend a little of time with coding. I used the time I had to finalize decision trees algorithm module in *Udemy* course.
+
+1. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Decision tree algorithms are one of the most "understandable" or better to visualize to people out of Data Science. They are based on decisions to separate or classify the data and these can be quite easy to see. One of the main problem of them is overfitting, to avoid overfitting we have to apply techniques such as prunning. Decision tree algorithms are the initiation of some of the most powerful algorithms like random forest or boosting algorithms. Between other improvements, they handle much better the problem of overfitting. The next module is about random forest algorithms.
+
+---
+
 ### **Day 65 of #100DaysOfData Challenge**
 
 Unfortunately, today I had an issue with Visual Studio and one notebook that seemed to be corrupted. Basically, I spent most of the time trying to solve the problem, finally I had to copy the code itself in a new notebook. The small amount of remaining time I could spend it in **Omdena** project.
