@@ -21,7 +21,7 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 Today I was concentrated on generating the demo databases in **Omdena** project. I spend also some time with Maria's code to keep progressing.
 
-
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). My main objective now in **Omdena** project is to get a working demo, and to achieve that objective my task would be to generate the different required databases. My first struggling point is to execute sql scripts from a Notebook, because of some issues with MySQL I couldn't execute more than one. Finally I copied all the scripts in one sql script and it worked, but I don't think it is the proper way. I should understand why it was failing.
 
 ---
 
@@ -30,8 +30,6 @@ Today I was concentrated on generating the demo databases in **Omdena** project.
 As today I had many personal appointments I just could spend a little of time with coding. I used the time I had to finalize decision trees algorithm module in *Udemy* course.
 
 1. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Decision tree algorithms are one of the most "understandable" or better to visualize to people out of Data Science. They are based on decisions to separate or classify the data and these can be quite easy to see. One of the main problem of them is overfitting, to avoid overfitting we have to apply techniques such as prunning. Decision tree algorithms are the initiation of some of the most powerful algorithms like random forest or boosting algorithms. Between other improvements, they handle much better the problem of overfitting. The next module is about random forest algorithms.
-
-1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). My main objective now in **Omdena** project is to get a working demo, and to achieve that objective my task would be to generate the different required databases. My first struggling point is to execute sql scripts from a Notebook, because of some issues with MySQL I couldn't execute more than one. Finally I copied all the scripts in one sql script and it worked, but I don't think it is the proper way. I should understand why it was failing.
 
 ---
 
