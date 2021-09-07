@@ -17,6 +17,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 68 of #100DaysOfData Challenge**
+
+Today I have mainly continued with the script to generate different databases for demo **Omdena** project. Also, I kept progressing Maria's code, now I am closer to complete it.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Even though the limitations I have with sqlalchemy loading files and queries, I manage to finialize the script to generate the databases. I am not sure why but I can't execute more than one consecutive query, if I do, the second one fails. Now I have to think in the logic and the metric to measure recommendation success. 
+
+---
+
 ### **Day 67 of #100DaysOfData Challenge**
 
 Today I was concentrated on generating the demo databases in **Omdena** project. I spend also some time with Maria's code to keep progressing.
