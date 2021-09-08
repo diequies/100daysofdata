@@ -17,6 +17,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 69 of #100DaysOfData Challenge**
+
+Not a productive day at all. I wanted to progress and almost complete my demo proposal, but I found a small error that took the day to solve. And of course, I spent some time with Maria's code.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). While generating the data for the demo, I found that the users were not being generated properly. I shuffled the data to avoid it to be completely sorted, but I did it after extract some of the features. Therefore I have been working with users in different places with different IDs. Now I sorted it out and the flow is correct.
+
+---
+
 ### **Day 68 of #100DaysOfData Challenge**
 
 Today I have mainly continued with the script to generate different databases for demo **Omdena** project. Also, I kept progressing Maria's code, now I am closer to complete it.
