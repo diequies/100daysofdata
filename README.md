@@ -17,6 +17,17 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 70, 71 and 72 of #100DaysOfData Challenge**
+
+The first two days I have been so busy that I could just spend some time in Maria's code. They day 72 I could have more time and progress in almost all the open fronts. Hopefully I can avoid in the future such improductive days in a row.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). I have finished the script to generate the demo database for different scenarios. But now I am struggling to come up with a metric to meassure the success of our recommendation. Tomorrow we will have a meeting to discuss this point and the possible scenarios.
+2. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Finally, I have completed the data extraction for this project. It has been long, and also along the process I have understood errors I will not make again. For my next personal project I will look for something more dynamic, not like this that takes 2 weeks to extract the data. The next step in this project is the EDA.
+3. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). I have finalised the Random Forest Algorithm module. It is very interesting how it is combined the strength of decision trees with other statistics methods to face its weaknesess. Random forest logic is to use repeatedly decision trees with a sample of the data, records and/or features. And then, combine them to find the best metrics, not only for the data we use to train but also to generalise to validation data or unseen data.
+4. **Course**: [Python Programming datacamp Skill Track](https://learn.datacamp.com/skill-tracks/python-programming?version=2). Today I completed the software engineering for data science course. It is a very general overview, but it has given me a much better understanding of classes, functions, documentations, unit tests, etc. The next course will be about unit testing.
+
+---
+
 ### **Day 69 of #100DaysOfData Challenge**
 
 Not a productive day at all. I wanted to progress and almost complete my demo proposal, but I found a small error that took the day to solve. And of course, I spent some time with Maria's code.
@@ -62,7 +73,7 @@ Unfortunately, today I had an issue with Visual Studio and one notebook that see
 Not a very productive day in regards of coding, probably the most useful has been to complete a Datacamp course about decorators.
 
 1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today we had a code walkthrough with the partners, I didn't completely understand what was the meaning of it. My presentation was too detailed, but once I got the feedback, everything improved. From now I know what a code walkthrough is.
-2.  2. **Course**: [Python Programming datacamp Skill Track](https://learn.datacamp.com/skill-tracks/python-programming?version=2). Today I completed the course to write functions in python, the first part was quite straightforwards but then, once they introduced the decorators it got much more interesting. The decorators are functions that modify other functions, I know now how it works but I need to find a use and apply it to settle the knowledge.
+2. **Course**: [Python Programming datacamp Skill Track](https://learn.datacamp.com/skill-tracks/python-programming?version=2). Today I completed the course to write functions in python, the first part was quite straightforwards but then, once they introduced the decorators it got much more interesting. The decorators are functions that modify other functions, I know now how it works but I need to find a use and apply it to settle the knowledge.
 
 ---
 
