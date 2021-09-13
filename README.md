@@ -17,6 +17,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 74 of #100DaysOfData Challenge**
+
+Another day working to have a working demo and also some statistics for the different scenarios. Also, as everyday I had some time with Maria's code, now I am close to finish the translation from R to Python.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). I started to review the whole app code, it is production code based on OOP. So far, it is being complicated to understand it. Although I managed to get the code to do some recommendations I still cannot fully understand it. I believe it is very important to me to understand the code, its logic and be able to reproduce it. It is the next level of coding.
+
+---
+
 ### **Day 73 of #100DaysOfData Challenge**
 
 Today I had time to spend in the Omdena project, not only coding but more important, having a meeting to define the steps. As always, also spent some time with Maria's code, which is actually being quite educational as Pandas and Numpy practice.
