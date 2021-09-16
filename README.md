@@ -17,6 +17,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 75-77 of #100DaysOfData Challenge**
+
+The days 75 to 77 have been quite out of data science and coding. It has been my last week at work and most of the time I had to spend to close everything. Anyway, I tried to always spend a minimum time of coding to keep the progress, mainly with Maria's code and *Omdena*'s project.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). I've been focused on the demo, but as the other code was not completed yet I was getting faulty results. It seems that now the latest code has been merged, therefore tomorrow I will test the models and try to make a demo.
+
+---
+
 ### **Day 74 of #100DaysOfData Challenge**
 
 Another day working to have a working demo and also some statistics for the different scenarios. Also, as everyday I had some time with Maria's code, now I am close to finish the translation from R to Python.
