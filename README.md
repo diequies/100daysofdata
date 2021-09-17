@@ -17,6 +17,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 78 of #100DaysOfData Challenge**
+
+Last days to complete the demo and presentation of *Omdena* project. We are running late, so these days I am completely focused on finishing something I can show as a demo.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). I am struggling to get the appropriate results to make a story as a demo. Currently I am getting very similar results without data and with user data, we need to confirm the logic behind.
+
+---
+
 ### **Day 75-77 of #100DaysOfData Challenge**
 
 The days 75 to 77 have been quite out of data science and coding. It has been my last week at work and most of the time I had to spend to close everything. Anyway, I tried to always spend a minimum time of coding to keep the progress, mainly with Maria's code and *Omdena*'s project.
