@@ -17,6 +17,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 79 of #100DaysOfData Challenge**
+
+Day focused on finishing the demo for *Omdena* project, also I try to use some time to read the book, but the progress is very slow.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Today I got the final draft for the demo, probably the only work remaining is to format the document. The demo shows some sense for the model, although it shows also some deficiencies. But there is no more time in the project to fix and improve the models. Anyway, it is a great success to deploy a recommendation system at almost production level in such a short term.
+
+---
+
 ### **Day 78 of #100DaysOfData Challenge**
 
 Last days to complete the demo and presentation of *Omdena* project. We are running late, so these days I am completely focused on finishing something I can show as a demo.
