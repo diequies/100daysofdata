@@ -17,6 +17,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 80-81 of #100DaysOfData Challenge**
+
+Quite productive weekend, even though I couldn't spend too many hours on data science. From one side I completed the demo for *Omdena* and then also completed another module of the Udemy course. Now that I will have more time, I hope I can speed up all the activities.
+
+1. **Project**: [Building A Recommendation System For Cognitive Exercises and Training Programs](https://omdena.com/projects/cognitive-exercises/). Finally I have completed the demo task, it will be a presentation with some results to show the performance of the model and also a couple of GIF to show the results. From now, the last activity of this project would be to get ready for the final presentation.
+2. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). The module I have just finalised is the boosting algorithms module. The course touches upon *Adaboost* and *Gradient Boosting* algorithms, both following similar logics. Boosting algorithms apply a specific algorithm (in this case decision trees) repeteadly in series, each one learning from the previous one. Boosting methodology can be very powerful as it combines the power of multiple algorithms.
+
+---
+
 ### **Day 79 of #100DaysOfData Challenge**
 
 Day focused on finishing the demo for *Omdena* project, also I try to use some time to read the book, but the progress is very slow.
