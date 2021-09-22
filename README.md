@@ -17,6 +17,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 82-83 of #100DaysOfData Challenge**
+
+Now that *Omdena* project is almost finish and there is very little work to do, I am focusing in complete the open courses and book a I had. Also, I will be getting back my London housing project very soon.
+
+1. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Just finished the *Naive Bayes Classification applied to NLP* module. The algorithm itself is really simple and does not have even hyperparameters to tune, but the *NLP* part is very interesting. Even though it is just an introduction, it has attracted my attention.
+2. **Course**: [Python Programming datacamp Skill Track](https://learn.datacamp.com/skill-tracks/python-programming?version=2). I have also completed the *Programming Skill Track* at *Datacamp*, I am still not sure how common is *OOP* in data science, but it seems very important to learn towards getting a job. I will try to apply what I have learnt in the London Housing Price Project.
+3. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). Also, I finished the *MatPlotLib* module. I already had experience with this library and also with *Seaborn*, but it has been useful to settle the *OOP* way to use it and get a glimpse of the very extense options to personalize our visualizations. The next module is about machine learning, mainly with *Scikit-Learn*, again I have already experience but I am sure it would be useful.
+
+---
+
 ### **Days 80-81 of #100DaysOfData Challenge**
 
 Quite productive weekend, even though I couldn't spend too many hours on data science. From one side I completed the demo for *Omdena* and then also completed another module of the Udemy course. Now that I will have more time, I hope I can speed up all the activities.
