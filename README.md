@@ -17,6 +17,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 84 of #100DaysOfData Challenge**
+
+Another courses day, I want to clean a bit and close the courses I had opened before moving on. Also I found an interesting post about data projects structure that I want to apply to the London Housing Price project.
+
+1. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today I have finished the module of *K Means Cluster* algorithm. Unsupervised learning is a bit less straightforwards, mainly to understand how to evaluate the performance. The course shows some simple examples of how to use this clustering algorithm, such as color reduction in an image or to group similar countries, etc. It seems like this algorithm is the mid point of a more deeper study, whereas the supervised learning algorithms are more the ouput of a project.
+2. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). I have started the last module of the book, about machine learning in general, but focused mainly in *Scikit-Learn*. So far, I have read the introduction to the library, it explains how is structured and how it works. It is interesting to see as overall, how all the algorithms or processes are very similar, so it is simple to do very useful pipelines. Definitely I need to practice pipelines on my personal project.
+
+---
+
 ### **Days 82-83 of #100DaysOfData Challenge**
 
 Now that *Omdena* project is almost finish and there is very little work to do, I am focusing in complete the open courses and book a I had. Also, I will be getting back my London housing project very soon.
