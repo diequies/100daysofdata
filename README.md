@@ -15,7 +15,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 
+--
 ---
+
+### **Days 85 of #100DaysOfData Challenge**
+
+With the moving I am not having too much time for data science these days. Basically, I am reading the book and watching Udemy course, hopefully soon I get more time to progress in my project.
+
+1. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today I have finished the module of *Agglomerative clustering* algorithm. It follows similar logic than yesterday's module, it will group the samples in clusters based on spatial distances. I have the same feeling, it seems more an explorative tool than something to give final results.
+2. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). This chaper is running trhough the main types of algorithms, showing a short description, the method, when to use it and a final example. It is quite good to get an overview, but still it was not the main purpose of the book and the course is giving similar but deeper information.
 
 ### **Days 84 of #100DaysOfData Challenge**
 
