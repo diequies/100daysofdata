@@ -9,13 +9,22 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | Courses and Certifications |
 | ------------------------- |
 | 1. [**2021 Python for Machine Learning & Data Science**](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) |
-| 2. [**Python Programming datacamp Skill Track**](https://learn.datacamp.com/skill-tracks/python-programming?version=2)
+| 2. [**Python Programming datacamp Skill Track**](https://learn.datacamp.com/skill-tracks/python-programming?version=2) |
+| 3. [**Machine Learning by Andrew Ng and Stanford University**](https://www.coursera.org/learn/machine-learning/home)
 
 | Books and Papers |
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 
---
+---
+
+### **Days 86 of #100DaysOfData Challenge**
+
+After two weeks of not being able to work at all, I am back to the business and the challenge full time. I have just completed Udemy course and started the famous *Machine Learning Course from Stanford University in Coursera*.
+
+1. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). I took the last modules on this course, *DBSCAN* and *PCA*. These algorithms are not so obvious to find a use of it, but I find them very useful for data exploration and visualization. Now that I finished the course I can say that it is really useful for beginners like me. It provides a good foundation of Machine Learning, with some theory on each algorithm (of the most used ones) and an applied example of each as well.
+2. **Course**: [Machine Learning by Andrew Ng and Stanford University](https://www.coursera.org/learn/machine-learning/home). I started and completed the first weeks of the course. The main reason to do the course is to get a bit deeper on the theory of the main algorithms before moving to the next steps. On the first weeks of the course it focuses in *Cost Functions*, *Gradient Descent Theory*, *Various types of Regressions* and started to introduce *Neural Networks*.
+
 ---
 
 ### **Days 85 of #100DaysOfData Challenge**
