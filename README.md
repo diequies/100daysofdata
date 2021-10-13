@@ -18,6 +18,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 87 of #100DaysOfData Challenge**
+
+I spent most of the time in the zoopla project, I had to go back to speed and remember what I was doing. Also I had some side time to progress in the courses and book.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). I completed the data extraction and cleaned a little bit the data. Now I have a table in a local MySQL database with all the information in quite a good condition. My next step is to do EDA on that data, let's see what we can extract.
+
+---
+
 ### **Days 86 of #100DaysOfData Challenge**
 
 After two weeks of not being able to work at all, I am back to the business and the challenge full time. I have just completed Udemy course and started the famous *Machine Learning Course from Stanford University in Coursera*.
