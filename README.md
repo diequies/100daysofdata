@@ -10,11 +10,21 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | ------------------------- |
 | 1. [**2021 Python for Machine Learning & Data Science**](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) |
 | 2. [**Python Programming datacamp Skill Track**](https://learn.datacamp.com/skill-tracks/python-programming?version=2) |
-| 3. [**Machine Learning by Andrew Ng and Stanford University**](https://www.coursera.org/learn/machine-learning/home)
+| 3. [**Machine Learning by Andrew Ng and Stanford University**](https://www.coursera.org/learn/machine-learning/home) |
+| 4. [**Machine Learning Fundamentals datacamp Skill Track**](https://app.datacamp.com/learn/skill-tracks/machine-learning-fundamentals-with-python?version=1)
 
 | Books and Papers |
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
+
+---
+
+### **Days 88 of #100DaysOfData Challenge**
+
+Not a very successful day but I managed to spend some time in each of my open fronts.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Not much progress, I just started to define all the variables I obtained from the previous stage and planned a bit what could be interesting from them. 
+2. **Course**: [Machine Learning by Andrew Ng and Stanford University](https://www.coursera.org/learn/machine-learning/home). I finished the introduction and intuition of *neural networks*. It is true that it does not solve any practical example but the explanation is very clear to have good foundations.
 
 ---
 
