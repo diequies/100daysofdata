@@ -19,6 +19,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 89 of #100DaysOfData Challenge**
+
+Finally finished the book *Python Data Science Handbook* and also progressed with the EDA on my house pricing project. Being real data scrapped by myself, I am finding very interesting insights and I guess quite unique as I am not using public available data.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Today I started to try geographical plotting for the first time. It is different and complicated at first, but with *geopandas*, it gets simple quickly. The next step would be to customize a bit the plot and make nice visualizations.
+2. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). Book completed, even though it is a reference book, it has been very useful for me to read it. Mainly because I get to know the possibilities of packages or models, so afterwards when I want to use them I can have ideas of what to do. Also, in the last part about *Scikit-Learn*, it introduces many algorithms, some new for me.
+
+---
+
 ### **Days 88 of #100DaysOfData Challenge**
 
 Not a very successful day but I managed to spend some time in each of my open fronts.
