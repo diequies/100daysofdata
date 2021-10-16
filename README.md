@@ -16,6 +16,17 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | Books and Papers |
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
+| 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning)
+
+---
+
+### **Days 90 of #100DaysOfData Challenge**
+
+The main progress today is that I finished the week 6 in *Andrew Ng*'s course, started a new book, *Machine Learning Yearning*, also from *Andrew Ng* and completed a datacamp course.
+
+1. **Course**: [Machine Learning by Andrew Ng and Stanford University](https://www.coursera.org/learn/machine-learning/home). Completed the week 6, where mainly it was introduce  the bias-variance problem and trade off. Also, and most interesting, not only explained the problem, but also different ways to solve it depending on the situation. For example, when it is useful to increase the training data, or when to go to a simplet/more complex algorithm, etc. Even though they were concepts that I already knew, it was very useful to go deeper on them.
+2. **Book**: [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning). Justs started the book but it looks very insightful. At first sight, the main take away is how to aproach Machine Learning Projects, points to take into account, the ones to avoid, etc.
+3. **Course**: [Machine Learning Fundamentals datacamp Skill Track](https://app.datacamp.com/learn/skill-tracks/machine-learning-fundamentals-with-python?version=1). Just completed the first course of the track about supervised machine learning algorithms. I didn't learn anything about new algorithms, but it was useful to get hands-on activities with pipelines mainly. In my housing prices project I will put in practice.
 
 ---
 
