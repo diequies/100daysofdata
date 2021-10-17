@@ -20,6 +20,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 91 of #100DaysOfData Challenge**
+
+Not a massive progress today, just a little bit on each item. The only interesting one would be on my house pricing project, where I am learning how to use *geopandas* package.
+
+1. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). I have been learning how to use *geopandas* package as I am facing some issues with just one of the boroughs that is not showing in any plot. So far, I just know that the problem comes when I merge the dataframe from *geopandas* with another dataframe from normal *pandas*. I need to keep studying the issue to find where I have the leakage of information.
+
+---
+
 ### **Days 90 of #100DaysOfData Challenge**
 
 The main progress today is that I finished the week 6 in *Andrew Ng*'s course, started a new book, *Machine Learning Yearning*, also from *Andrew Ng* and completed a datacamp course.
