@@ -5,6 +5,7 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | -------- |
 | 1. [**Zoopla London Houses Price Prediction from Scratch**](https://github.com/diequies/zoopla_houses) |
 | 2. [**Building A Recommendation System For Cognitive Exercises and Training Programs**](https://omdena.com/projects/cognitive-exercises/) |
+| 3. [**Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness**](https://omdena.com/projects/ethnicity-awareness/)
 
 | Courses and Certifications |
 | ------------------------- |
@@ -17,6 +18,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 | 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning)
+
+---
+
+### **Days 92 of #100DaysOfData Challenge**
+
+As the new challenge from *Omdena* will be using *DAGsHub* instead of *GitHub*, I spent most of the time learning and setting up an account there.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Even though the project kick-off is tomorrow, I am doing some initial preparations. The most important has been learn the new repository site and methodology, *DAGsHub*. At first sight it looks very much like *GitHub* but with some extra features specifically for Data Science.
+2. **Course**: [Machine Learning Fundamentals datacamp Skill Track](https://app.datacamp.com/learn/skill-tracks/machine-learning-fundamentals-with-python?version=1). Completed the second course about unsupervised learning algorithms. I learnt about some new algorithms for me, like *Non-negative Matrix Factorization*, that looks useful for NLP or image processing. And also, again, you get to use the algorithms yourself, even though it is a very controlled environment, it makes the difference.
+
 
 ---
 
