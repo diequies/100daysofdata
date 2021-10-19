@@ -21,6 +21,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 93 of #100DaysOfData Challenge**
+
+Two main items to highliht today, the kick-off of *Omdena* project and finishing the book *Machine Learning Yearning*. 
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). The kick-off meeting with CeretAI happened today, most of anything I am amazed to see how clear their problem statement is. Also, there are many more collaborators and more experienced. The deliverable of the project is to create an algorithm that can detect people and its ethnicity in broadcasting videos with at least a 95% of accuracy. As first day of the challenge I am very happy with what I've seen, now we have to gather as much information as we can.
+2. **Book**: [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning). Just finished the book, it is quite short and it goes to the point quite directly. The book tries to explain how to approach machine learning projects, showing the most likely problems you may encounter. And what is more important, it speaks about strategies to tackle them. At the end it is a reference book that I am sure I will consult in the future but also gave good insights.
+
+
+---
+
 ### **Days 92 of #100DaysOfData Challenge**
 
 As the new challenge from *Omdena* will be using *DAGsHub* instead of *GitHub*, I spent most of the time learning and setting up an account there.
