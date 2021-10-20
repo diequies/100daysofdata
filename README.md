@@ -21,6 +21,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 94 of #100DaysOfData Challenge**
+
+A lot of time spent today introducing myself in computer vision, but also I had some progress in *DataCamp* and also in the *Coursera* course.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). My main objective at the moment is to get to a minimum knowledge at computer vision field. I have been reading several introductory post and now I will be moving to more complex papers. Also I am thinking to take the lead in data labeling task, probably the most simple in this project.
+2. **Course**: [Machine Learning Fundamentals datacamp Skill Track](https://app.datacamp.com/learn/skill-tracks/machine-learning-fundamentals-with-python?version=1). Just finished the third course in the track about Linear Classifiers. We reviewed the theory basics and most importantly we had hands-on examples of the most important, Logistic Regression (with its regularizations) and Support Vector Machine. After having the theory from other sources, it is useful *DataCamp*'s more practical approach.
+3. **Course**: [Machine Learning by Andrew Ng and Stanford University](https://www.coursera.org/learn/machine-learning/home). Completed the week 7 about Support Vector Machines. Again, the best part of the course is the theoretical approach, much deepper than other sources. It is really useful when it is combined with a more practical approach like with DataCamp. SVMs are like the next step after the linear classifiers, using different kernels it can classify using non-linear boundaries.
+
+---
+
 ### **Days 93 of #100DaysOfData Challenge**
 
 Two main items to highliht today, the kick-off of *Omdena* project and finishing the book *Machine Learning Yearning*. 
