@@ -21,6 +21,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 95 of #100DaysOfData Challenge**
+
+Intense day in *Omdena* project, a lot of discussions going on and just keep up with them takes a good amount of time. Also I am keeping the progress on my courses to meet my target, but I feel I am leaving behind the house pricing project.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today I created data labeling task and became the task leader, not sure if it would be useful for me and if I would struggle because I had no experience on that. So far, the most important part is to study and gather the tools and strategies to decide which one to take.
+2. **Course**: [Machine Learning Fundamentals datacamp Skill Track](https://app.datacamp.com/learn/skill-tracks/machine-learning-fundamentals-with-python?version=1). The fourth course was a walktrough project of basic NLP, where we built slowly a quite long pipeline to solve the problem. I haven't use pipelines yet in real problem, but it seems very useful to simplify the code and keep it organised.
+3. **Course**: [Machine Learning by Andrew Ng and Stanford University](https://www.coursera.org/learn/machine-learning/home). Completed the week 8 focused on unsupervised learning, mostly K-Means Clustering and PCA for dimensionality reduction. It is not the first time I see these algorithms, but Andrew Ng explains quite thoroughtly and better the theory and the use cases.
+
+---
+
 ### **Days 94 of #100DaysOfData Challenge**
 
 A lot of time spent today introducing myself in computer vision, but also I had some progress in *DataCamp* and also in the *Coursera* course.
