@@ -21,6 +21,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 96 of #100DaysOfData Challenge**
+
+Good progress today, on one side, the labeling task is getting a bit clearer now and then, I finished the Machine Learning Fundamentals Datacamp skill track. I still need to improve the effectiveness of my work, but now it is getting better.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Now it seems clear that the long run strategy is labeling via *active learning*, now we have to understand better how to implement it and also how to get the initial data set. It seems that there are many already labeled data sets free and available. Tomorrow we will have the first meeting to plan the task.
+2. **Course**: [Machine Learning Fundamentals datacamp Skill Track](https://app.datacamp.com/learn/skill-tracks/machine-learning-fundamentals-with-python?version=1). Completed the last course, *Introduction to Deep Learning*, very simple but useful to understand the fundamentals applying them. 
+3. **Course**: [Machine Learning by Andrew Ng and Stanford University](https://www.coursera.org/learn/machine-learning/home). Just finished the anomaly detection module, it is the first time I hear about this type of machine learning. It is interesting to understand why it is different to usual supervised learning problems. Being such a small amunt of positive cases and so different each other, we cannot pretend to learn about the anomaly and detect it, we have focus on what is out of the normal behaviour.
+
+---
+
 ### **Days 95 of #100DaysOfData Challenge**
 
 Intense day in *Omdena* project, a lot of discussions going on and just keep up with them takes a good amount of time. Also I am keeping the progress on my courses to meet my target, but I feel I am leaving behind the house pricing project.
