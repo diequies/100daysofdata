@@ -21,6 +21,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 97 of #100DaysOfData Challenge**
+
+Busy day at *Omdena* having a long discussion about data labeling, but still I managed to have progress also in *Coursera* course. From today to the end of the month I will be spending more time on my personal house pricing project, I want to finish it to start a new one.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Finally we had our first task meeting, long discussion of more than an hour but with good outputs. We set a long run plan and also an starting step to progress. Hopefully the task last just a couple of weeks or at least does not take too much of my time so I can collaborate in others. From now, we will be gathering public data sets of faces labeled by ethnic group to try to collate the most useful in our initial data set.
+2. **Course**: [Machine Learning by Andrew Ng and Stanford University](https://www.coursera.org/learn/machine-learning/home). Completed week 9 of the course, the second sub-module was about recommender systems, but I was already experienced on them because of my first *Omdena* project. Anyway, it was good to review the theory again and get a better understanding. Recommender systems are a quite special problem to solve in Data Science, the approach needs be different and we learnt that the hard way.
+
+---
+
 ### **Days 96 of #100DaysOfData Challenge**
 
 Good progress today, on one side, the labeling task is getting a bit clearer now and then, I finished the Machine Learning Fundamentals Datacamp skill track. I still need to improve the effectiveness of my work, but now it is getting better.
