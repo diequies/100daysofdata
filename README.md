@@ -21,6 +21,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 98 of #100DaysOfData Challenge**
+
+Not very productive day, I just could spend the minimum time at *Omdena* project. 
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). The most important today was the weekly team meeting, the PO explained a bit better how the challenge will work and also we had a quite varied discussion on how to approach the problem. Still a bit chaotic but we are slowly getting organised.
+
+---
+
 ### **Days 97 of #100DaysOfData Challenge**
 
 Busy day at *Omdena* having a long discussion about data labeling, but still I managed to have progress also in *Coursera* course. From today to the end of the month I will be spending more time on my personal house pricing project, I want to finish it to start a new one.
