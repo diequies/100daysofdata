@@ -19,6 +19,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 | 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning)
 
+
+---
+
+### **Days 99 of #100DaysOfData Challenge**
+
+I had time spend in both of my projects with quite good progress. Most of the time it has been *Omdena* but also I am trying to push to finish my project.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today I moved to work on a different task, I don't want to get stuck in just data gathering/labeling like in the previous challenge. I am collaborating in the face detection task, I will test RetinaFace algorithm to assess its performance.
+2. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). I had to go back to data ingestion code, for some reason I missed one borough and I just realized about it when started plotting maps. When revisiting the code I am seeing so many errors and bad written code, I need to start a new project to focus on the code.
+
 ---
 
 ### **Days 98 of #100DaysOfData Challenge**
