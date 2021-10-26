@@ -19,6 +19,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 | 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning)
 
+---
+
+### **Days 100 of #100DaysOfData Challenge**
+
+Finally day 100, more than 3 months doing at least a minimum of Data Science to reach my objective. It has been a very good way to keep the engagement. During this days I've finished an *Omdena* project and started a new one, also I have my personal project on-going. In terms of courses, I've done the Python for Data Science at Udemy, Machine learning at Coursera and 2 skill tracks in DataCamp. And finally, I read the Python Data Science Handbook and the Machine Learning Yearning books. I will continue with challenge even though it is completed, let's see if I can reach 200 days.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). I have been researching about the algorithm I am implementing for face detection, the *RetinaFace*, the code is already there in a quite simple way. So far, I have made it work, from our benchmarking video it just misses some frames where a face is occluded. The main problem I am finding is that it takes 1h to process 300 frames.
+2. **Course**: [Machine Learning by Andrew Ng and Stanford University](https://www.coursera.org/learn/machine-learning/home). Finished weeks 10 and 11, they were quite short. The week 10 was about strategies to apply Machine Learning to big amounts of data, like *Stochastic Gradient Descent*. The last week of the course, the 11th, was kind of how to apply Machine Learning in a project, the importance of using pipelines and tactics to improve our scores.
 
 ---
 
