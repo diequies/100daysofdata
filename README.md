@@ -21,6 +21,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 101 of #100DaysOfData Challenge**
+
+The most useful part of today was the tutorial and some hands-on trial with *DAGsHub*, it is the official repository for *Omdena* project and also I find it very useful for my next projects. It is basically the same as *GitHub* but adding some features specifically for Data Science, like *DVC* storage management or *MLFlow*.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today, a part from the *DAGsHub* activity, I came back to data labeling task. We could find just one public database that allows for commercial use, so now I am downloading it and doing some exploratory analysis to see how usable it is.
+
+---
+
 ### **Days 100 of #100DaysOfData Challenge**
 
 Finally day 100, more than 3 months doing at least a minimum of Data Science to reach my objective. It has been a very good way to keep the engagement. During this days I've finished an *Omdena* project and started a new one, also I have my personal project on-going. In terms of courses, I've done the Python for Data Science at Udemy, Machine learning at Coursera and 2 skill tracks in DataCamp. And finally, I read the Python Data Science Handbook and the Machine Learning Yearning books. I will continue with challenge even though it is completed, let's see if I can reach 200 days.
