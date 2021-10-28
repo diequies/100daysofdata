@@ -21,6 +21,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 102 of #100DaysOfData Challenge**
+
+Today, again I spent most of the Data Science time with *Omdena*'s project while my own house pricing project is running some web scrapping on the background.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today's main work has been to extract and learn how to upload the *FairFace* database to *DAGsHub* and the conduct EDA to understand how useful for our purposes this dataset is. So far it looks promising, quite balanced in race feature and also if we add the gender to the equation. With regards of the age, it basically follows the normal population distribution. The plan for tomorrow is get ready my benchmark face detection algorithm, *RetinaFace*.
+
+---
+
 ### **Days 101 of #100DaysOfData Challenge**
 
 The most useful part of today was the tutorial and some hands-on trial with *DAGsHub*, it is the official repository for *Omdena* project and also I find it very useful for my next projects. It is basically the same as *GitHub* but adding some features specifically for Data Science, like *DVC* storage management or *MLFlow*.
