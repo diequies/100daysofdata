@@ -19,6 +19,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 | 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning)
 
+
+---
+
+### **Days 103 of #100DaysOfData Challenge**
+
+Shared the time between my own project and *Omdena*'s one, and soon I will be starting other courses and books. The planning phase has re-started.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Not very successful day, just tried to get my face detection benchmark done but I couldn't manage because some issues with *DAGsHub*. Today I will focus more in my task and will start building the active learning algorithm.
+2. **Project**: [Zoopla London Houses Price Prediction from Scratch](https://github.com/diequies/zoopla_houses). Finally managed to fill the gaps I had with in Westminster and the City of London. I realized that I need to make more robust code to be able to come back and not spend hourse just re-doing the same again. From now, I will continue with the EDA.
+
 ---
 
 ### **Days 102 of #100DaysOfData Challenge**
