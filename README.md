@@ -19,6 +19,13 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 | 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning)
 
+---
+
+### **Days 104 of #100DaysOfData Challenge**
+
+More discussions day, we had some tasks meeting on our *Omdena* project and also I started to code the active learning algorithm.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). A part from the meetings to discuss and, in this case, clarify what is the progress and how to continue, I started coding the active learning algorithm. So far, just the most simple coming from an article but the plan is increasingly improve it.
 
 ---
 
