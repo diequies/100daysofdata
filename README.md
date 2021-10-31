@@ -21,6 +21,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 105 of #100DaysOfData Challenge**
+
+Not much work done today, just continued with active learning algorithm implementation and also had some meetings, all related with *Omdena* project.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). We had our weekly meeting, the things are slowing down now. The people is now in the phase of trying to put order in the ideas and create meaningful pipeline. Also I continued trying to implement active learning algorithm, although I am starting to see some limitations. The most important the trade-off between the confidence of the autolabeled pictures and the amount of manually labeled required. Having an initial dataset of more than 100k samples will help a lot on this.
+
+---
+
 ### **Days 104 of #100DaysOfData Challenge**
 
 More discussions day, we had some tasks meeting on our *Omdena* project and also I started to code the active learning algorithm.
