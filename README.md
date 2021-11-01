@@ -21,6 +21,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 106 of #100DaysOfData Challenge**
+
+Today I went back to face detection task in *Omdena* project and spent most of the time there. From tomorrow I will start new courses and book, so my activity will be more spread.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Coming back to face detection, I transferred what I did in *Google Colab* to our *DAGsHub* repository and tried to code everything in a *.py* file. The only troubles I am finding is to convert back the images to video, I am having some misalignment in the setup. Once I can solve them, the task would be completed quite successfully.
+
+---
+
 ### **Days 105 of #100DaysOfData Challenge**
 
 Not much work done today, just continued with active learning algorithm implementation and also had some meetings, all related with *Omdena* project.
