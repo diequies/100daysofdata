@@ -12,12 +12,26 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | 1. [**2021 Python for Machine Learning & Data Science**](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) |
 | 2. [**Python Programming datacamp Skill Track**](https://learn.datacamp.com/skill-tracks/python-programming?version=2) |
 | 3. [**Machine Learning by Andrew Ng and Stanford University**](https://www.coursera.org/learn/machine-learning/home) |
-| 4. [**Machine Learning Fundamentals datacamp Skill Track**](https://app.datacamp.com/learn/skill-tracks/machine-learning-fundamentals-with-python?version=1)
+| 4. [**Machine Learning Fundamentals datacamp Skill Track**](https://app.datacamp.com/learn/skill-tracks/machine-learning-fundamentals-with-python?version=1) |
+| 5. [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?=&page=1) |
+| 6. [**Machine Learning Scientist with Python datacamp Career Track**](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python) |
 
 | Books and Papers |
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
-| 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning)
+| 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning) |
+| 3. [**Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://github.com/ageron/handson-ml2) |
+
+---
+
+### **Days 107 of #100DaysOfData Challenge**
+
+Today I started 3 new items, a book, a new coursera specialization and a new DataCamp career track and I plan to complete them during this month. A side of that I finished the task for face detection.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Just completed the face detection benchmarking with *RetinaFace* and from today I will focus in the active learning task. I just found an already made CNN for race classification that I will use as starting point. Tomorrow I want to finish the first example/simulation of active learning.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Just started the famous Deep Learning Specialization in Coursera from *DeepLearning.AI*. I hope to get well introduced to deep learning with it and be confortable using libraries like *Tensorflow* or *Keras*. So far, I just finished the introductory week 1.
+3. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Also started the Machine Learning career track in datacamp, although I had already some courses completed I will still need to do lots. I started with the tree based models course.
+4. **Book**: [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/ageron/handson-ml2). Following the same line of the courses I am starting a book that is quite focused in Neural Networks with some traditional machine learning. I hope that with this combination I can master the most important libraries. So far just started with the introduction chapter.
 
 ---
 
