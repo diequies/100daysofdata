@@ -22,6 +22,13 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning) |
 | 3. [**Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://github.com/ageron/handson-ml2) |
 
+### **Days 108 of #100DaysOfData Challenge**
+
+Main achievement for today is to adapt the CNN for race classification on our *Omdena* project. But also I have progressed a bit on *Coursera* course and also took the basic ML assessment in *Datacamp*
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Just finished to adapt the CNN for race classification that I found in an [article](https://towardsdatascience.com/building-a-multi-output-convolutional-neural-network-with-keras-ed24c7bc1178), well explained and very useful. Also started to train it and seems to overfit a lot, tomorrow I will try to solve this issue to get at least normal values. Also I will be having a meeting to define better the things to be done in the short term.
+2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Completed the basic machine learning assessment to skip some of the initial courses. The result was 177 points and over 99% of the people that took the assessment, therefore I am quite happy with that.
+
 ---
 
 ### **Days 107 of #100DaysOfData Challenge**
