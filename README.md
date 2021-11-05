@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 110 of #100DaysOfData Challenge**
+
+During today I tried to progress mainly on my courses and books, although also I kept up with the model training for *Omdena*.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Even though I am being completely unsuccesful because of my unexperience, just trying to improve the performance of the model is helping me to understand how it works. I will start reading more about active learning, at least until Monday.
+2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Finished the *Linear Classifiers in Python* course. Nothing new but a good refresher of the theory and good to get some practice.
+
+---
+
 ### **Days 109 of #100DaysOfData Challenge**
 
 Today was more a discussion day at *Omdena*, not much coding but lots of time on meetings. On other terms, I finished the chapter one of the book and progressed a bit on *Coursera* and *Datacamp*.
