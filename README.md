@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 111 of #100DaysOfData Challenge**
+
+Not the most succesfull day, just kept trying different setups for the *Omdena* CNN and progressed a bit in the courses and book.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Not much time spent on the project today, just some to progress the model and also a quick discussion to get help with it.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Finished the 2nd week of the 1st course, it was focused on how a neurone works in a neural network and how to compute it mathematically and using sigmoid as activation function. The course is really insightful and goes deep enough to get a good understanding of what you are doing. During the 3rd week we move to build a shallow neural network.
+
+---
+
 ### **Days 110 of #100DaysOfData Challenge**
 
 During today I tried to progress mainly on my courses and books, although also I kept up with the model training for *Omdena*.
