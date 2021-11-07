@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 112 of #100DaysOfData Challenge**
+
+Kind of relaxing day, just attended some meetings and progressed a bit the courses.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Just attended the weekly meeting and explained data labeling progress. Also attended face detection meeting, I will try to optimize the speed for *RetinaFace* algorithm.
+2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Finished tree based classifiers course. Again, there is nothing new but it is a good refresher of the theory and also a bit of practice. The next module is about *XGBoost* a bit newer for me.
+
+---
+
 ### **Days 111 of #100DaysOfData Challenge**
 
 Not the most succesfull day, just kept trying different setups for the *Omdena* CNN and progressed a bit in the courses and book.
