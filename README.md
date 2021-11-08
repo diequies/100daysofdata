@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 113 of #100DaysOfData Challenge**
+
+Learning session in our *Omdena* project and some more progress on my courses. Currently I am focused on get ahead on my courses to focus on *Omdena* project later.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). In today's learning session I got my first contact with *Pytorch*, it seems complicated but still everything made sense to me. I need to give it a go and try to do an implementation by myself.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Finished the 3rd week of the first course. This time we coded I whole neural network of 2 layers with two different activation functions, *tanh* and *sigmoid*. It seems not so complicated, although I suppose it can get much more. Moving on to the last week, we will code a deeper neural network.
+
+---
+
 ### **Days 112 of #100DaysOfData Challenge**
 
 Kind of relaxing day, just attended some meetings and progressed a bit the courses.
