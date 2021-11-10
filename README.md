@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 115 of #100DaysOfData Challenge**
+
+Important day in our *Omdena* project, we had our brainstorming session and also I could finish the first course of Deep Learning specialization in Coursera. 
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). The purpose of the brainstorming session was to draft the *Active Learning* tool structure we want to build. We focused on settle its characteristics and requirements and now we have to create a clear flow to start coding. Until Friday I'll keep reading the book *Human-in-the-loop in Machine Learning* as it the main source of knowledge.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Finished the last week and therefore the 1st course of *Deep Learning* specialization. In this last week we built a Deep Neural Network and compared to the shallow one to understand the improvements, and problems, of having a more complex *NN*. Now I am starting the next course, Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, the title is self-explanatory.
+
+---
+
 ### **Days 114 of #100DaysOfData Challenge**
 
 Today I focused on Deep Learning Specialization from *Coursera*, I wanted to finish the firs course to meet the objective to complete the course in a month. Also I spent some time reading an Active learning book for *Omdena* project.
