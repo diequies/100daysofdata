@@ -29,8 +29,8 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 Same as yesterday, focused in Active Learning and the Deep Learning Specialization at Coursera. From tomorrow I will get back on DataCamp to catch up.
 
 1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today I mainly wanted to put in order the ideas behind active learning and created a flow chart of how I believe it should work following the book Human-in-the-loop Machine Learning. The systems is quite complex but the flowchart shows how to extract the validation sets and how to validate the system and the loop.
-[Active Learning flowchart](active learning.png)
-2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Finished the second course *Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, the title is self-explanatory*. Overall the course is really good, in the line of Andrew Ng, it is building the knowledge from the foundation. Just at the en of the last week starts speaking about deep learning frameworks, in this case *Tensorflow*. Next week I will start the next course.
+![Active Learning flowchart](/images/active_learning.png)
+3. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Finished the second course *Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, the title is self-explanatory*. Overall the course is really good, in the line of Andrew Ng, it is building the knowledge from the foundation. Just at the en of the last week starts speaking about deep learning frameworks, in this case *Tensorflow*. Next week I will start the next course.
 
 ---
 
