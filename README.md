@@ -24,6 +24,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 119 of #100DaysOfData Challenge**
+
+Weekend of almost just courses at Datacamp, I couldn't spend much time in anything else.
+
+2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Could complete 2 modules, Dimensionality Reduction in Python and Machine Learning for Time Series Data. Both were interesting, the first was more a review of what I new, mostly *T-SNE*, *PCA*, etc. The second course was completely new for me, it went through from features extraction to applying cross validation and machine learning models to time series. I found quite complex the Time Series, I would need to come back and study them a bit more.
+
+---
+
 ### **Days 118 of #100DaysOfData Challenge**
 
 Not very productive day, I had many other things to handle. Mainly I had the discussion with task 6 team at *Omdena* and then came back to *Datacamp*.
