@@ -24,11 +24,20 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 120 of #100DaysOfData Challenge**
+
+Interesting day, I learnt new things in my *Omdena* project and also I took a big step forwards in the *Deep Learning* Specialization.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today I started to write the *Pseudocode* of the Active Learning tool. The *Pseudocode* is a tool used in software engineering to plan the code, basically it consists on write what you want the code to do in plain English but in the shape of code. Afterwards it is easier to move from *Pseudocode* to normal code. I hope tomorrow I finish this step.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Completed the course *Structuring Machine Learning Projects*, this course is a bit more generalist and applies also to other classical Machine Learning algorithms. It goes through the ML/DL proyect explaining possible errors or issues that might come up and strategies to tackle them. The content is very similar to his book *Machine Learning Yearning*.
+
+---
+
 ### **Days 119 of #100DaysOfData Challenge**
 
 Weekend of almost just courses at Datacamp, I couldn't spend much time in anything else.
 
-2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Could complete 2 modules, Dimensionality Reduction in Python and Machine Learning for Time Series Data. Both were interesting, the first was more a review of what I new, mostly *T-SNE*, *PCA*, etc. The second course was completely new for me, it went through from features extraction to applying cross validation and machine learning models to time series. I found quite complex the Time Series, I would need to come back and study them a bit more.
+1. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Could complete 2 modules, Dimensionality Reduction in Python and Machine Learning for Time Series Data. Both were interesting, the first was more a review of what I new, mostly *T-SNE*, *PCA*, etc. The second course was completely new for me, it went through from features extraction to applying cross validation and machine learning models to time series. I found quite complex the Time Series, I would need to come back and study them a bit more.
 
 ---
 
