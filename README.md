@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 121 of #100DaysOfData Challenge**
+
+Continued preparing the *pseudocode* for the Active Learning tool, filling the gaps, and also came back to data camp Machine Learning career track.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Completed the first phase of *pseudocode*, there is a complete version of the tool, including the sampling methods. I had to investigate how to apply the sampling methods, mainly the diversity sampling. The purpose of that strategy is to take samples that are either in a high concentrated area to impact the most or in a very low concentration area to identify new trends. To do so, we need to apply clustering algorithms, and after some reading I found that taking the features discovered by the *neural networks*, and applying PCA to reduce the dimension and then KMeans works quite good for face clustering.
+2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Completed 2 courses yesterday, *Introduction to Natural Process Language* and *Feature Extraction for Natural Process Language*. It is my first contact with *NLP* and it seems quite interesting, I still don't have full understanding but I can see some nice applications. I will come back to it once I finish this career track.
+
+---
+
 ### **Days 120 of #100DaysOfData Challenge**
 
 Interesting day, I learnt new things in my *Omdena* project and also I took a big step forwards in the *Deep Learning* Specialization.
