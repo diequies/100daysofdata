@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 122 of #100DaysOfData Challenge**
+
+Not a day of big progress, just kept working in what I was working before.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Now that I completed the *pseudocode* itself I am starting to create the actual structure dividing the code in different files or notebooks. This part is completely new for me, so I am just learning and applying. The objective is to get at the end a tool that can be easily used.
+2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Today I just could complete the *Introduction to Tensorflow* module. It was interesting, I didn't know that TF had all the basic operations and also that it had different levels of API. You could build a neural network from scratch at low level or just take their functions and build it with a few lines.
+
+---
+
 ### **Days 121 of #100DaysOfData Challenge**
 
 Continued preparing the *pseudocode* for the Active Learning tool, filling the gaps, and also came back to data camp Machine Learning career track.
