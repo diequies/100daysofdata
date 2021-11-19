@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Days 123 of #100DaysOfData Challenge**
+
+Today I kept working on the *pseudocode* for *Omdena* project to separate the code in different files and also spent some time in Datacamp progressing the Machine Learning career track.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). The purpose of today was to reach a point on *pseudocode* so everyone could understand and therefore we could start coding by now. We should get the tool working and start labeling data to improve the results, otherwise we won't have time to finish.
+2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Today I just could complete the *Introduction to Deep Learning in Python* module. I am trying to get settle as much theory as I can about deep learning. Repeating basic courses about a topic, even though quick, helps me to grasp the information and Datacamp also helps to practice in a controled environment.
+
+---
+
 ### **Days 122 of #100DaysOfData Challenge**
 
 Not a day of big progress, just kept working in what I was working before.
