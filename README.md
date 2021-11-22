@@ -24,7 +24,16 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
-### **Days 123 of #100DaysOfData Challenge**
+### **Day 124 of #100DaysOfData Challenge**
+
+Busy weekend and I couldn't spend that much time on my learning. Mainly I tried to keep connected to *Omdena* project and also progress on Datacamp modules. From tomorrow I'll be back to Coursera's *Deep Learning Specialization*.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Not much progress, just discussed the *pseudocode* with the team. It was quite insightful just review it with other people, just thinking how to explain it puts in order the thoughts. From now on I will start coding the tool.
+2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Probably the best progress of the weekend. I completed several modules, *Introduction to Deep Learning with Keras*, *Advanced Deep Learning with Keras*, *Image Processing in Python*, *Image Processing with Keras in Python* and *Introduction to PySpark*. Most of them where around *Keras* and image related work, and it helped me a lot to understand better what we are doing in *Omdena*'s project and what we can do to improve. Still I need more fundamental theory on convolutional networks.
+
+---
+
+### **Day 123 of #100DaysOfData Challenge**
 
 Today I kept working on the *pseudocode* for *Omdena* project to separate the code in different files and also spent some time in Datacamp progressing the Machine Learning career track.
 
@@ -33,7 +42,7 @@ Today I kept working on the *pseudocode* for *Omdena* project to separate the co
 
 ---
 
-### **Days 122 of #100DaysOfData Challenge**
+### **Day 122 of #100DaysOfData Challenge**
 
 Not a day of big progress, just kept working in what I was working before.
 
@@ -42,7 +51,7 @@ Not a day of big progress, just kept working in what I was working before.
 
 ---
 
-### **Days 121 of #100DaysOfData Challenge**
+### **Day 121 of #100DaysOfData Challenge**
 
 Continued preparing the *pseudocode* for the Active Learning tool, filling the gaps, and also came back to data camp Machine Learning career track.
 
@@ -51,7 +60,7 @@ Continued preparing the *pseudocode* for the Active Learning tool, filling the g
 
 ---
 
-### **Days 120 of #100DaysOfData Challenge**
+### **Day 120 of #100DaysOfData Challenge**
 
 Interesting day, I learnt new things in my *Omdena* project and also I took a big step forwards in the *Deep Learning* Specialization.
 
@@ -60,7 +69,7 @@ Interesting day, I learnt new things in my *Omdena* project and also I took a bi
 
 ---
 
-### **Days 119 of #100DaysOfData Challenge**
+### **Day 119 of #100DaysOfData Challenge**
 
 Weekend of almost just courses at Datacamp, I couldn't spend much time in anything else.
 
@@ -68,7 +77,7 @@ Weekend of almost just courses at Datacamp, I couldn't spend much time in anythi
 
 ---
 
-### **Days 118 of #100DaysOfData Challenge**
+### **Day 118 of #100DaysOfData Challenge**
 
 Not very productive day, I had many other things to handle. Mainly I had the discussion with task 6 team at *Omdena* and then came back to *Datacamp*.
 
@@ -77,7 +86,7 @@ Not very productive day, I had many other things to handle. Mainly I had the dis
 
 ---
 
-### **Days 117 of #100DaysOfData Challenge**
+### **Day 117 of #100DaysOfData Challenge**
 
 Same as yesterday, focused in Active Learning and the Deep Learning Specialization at Coursera. From tomorrow I will get back on DataCamp to catch up.
 
@@ -87,7 +96,7 @@ Same as yesterday, focused in Active Learning and the Deep Learning Specializati
 
 ---
 
-### **Days 116 of #100DaysOfData Challenge**
+### **Day 116 of #100DaysOfData Challenge**
 
 Continued focused on learning Active Learning for *Omdena* and the Deep Learning Specialization at Coursera.
 
@@ -96,7 +105,7 @@ Continued focused on learning Active Learning for *Omdena* and the Deep Learning
 
 ---
 
-### **Days 115 of #100DaysOfData Challenge**
+### **Day 115 of #100DaysOfData Challenge**
 
 Important day in our *Omdena* project, we had our brainstorming session and also I could finish the first course of Deep Learning specialization in Coursera. 
 
@@ -105,7 +114,7 @@ Important day in our *Omdena* project, we had our brainstorming session and also
 
 ---
 
-### **Days 114 of #100DaysOfData Challenge**
+### **Day 114 of #100DaysOfData Challenge**
 
 Today I focused on Deep Learning Specialization from *Coursera*, I wanted to finish the firs course to meet the objective to complete the course in a month. Also I spent some time reading an Active learning book for *Omdena* project.
 
@@ -114,7 +123,7 @@ Today I focused on Deep Learning Specialization from *Coursera*, I wanted to fin
 
 ---
 
-### **Days 113 of #100DaysOfData Challenge**
+### **Day 113 of #100DaysOfData Challenge**
 
 Learning session in our *Omdena* project and some more progress on my courses. Currently I am focused on get ahead on my courses to focus on *Omdena* project later.
 
@@ -123,7 +132,7 @@ Learning session in our *Omdena* project and some more progress on my courses. C
 
 ---
 
-### **Days 112 of #100DaysOfData Challenge**
+### **Day 112 of #100DaysOfData Challenge**
 
 Kind of relaxing day, just attended some meetings and progressed a bit the courses.
 
@@ -132,7 +141,7 @@ Kind of relaxing day, just attended some meetings and progressed a bit the cours
 
 ---
 
-### **Days 111 of #100DaysOfData Challenge**
+### **Day 111 of #100DaysOfData Challenge**
 
 Not the most succesfull day, just kept trying different setups for the *Omdena* CNN and progressed a bit in the courses and book.
 
@@ -141,7 +150,7 @@ Not the most succesfull day, just kept trying different setups for the *Omdena* 
 
 ---
 
-### **Days 110 of #100DaysOfData Challenge**
+### **Day 110 of #100DaysOfData Challenge**
 
 During today I tried to progress mainly on my courses and books, although also I kept up with the model training for *Omdena*.
 
@@ -150,7 +159,7 @@ During today I tried to progress mainly on my courses and books, although also I
 
 ---
 
-### **Days 109 of #100DaysOfData Challenge**
+### **Day 109 of #100DaysOfData Challenge**
 
 Today was more a discussion day at *Omdena*, not much coding but lots of time on meetings. On other terms, I finished the chapter one of the book and progressed a bit on *Coursera* and *Datacamp*.
 
@@ -159,7 +168,7 @@ Today was more a discussion day at *Omdena*, not much coding but lots of time on
 
 ---
 
-### **Days 108 of #100DaysOfData Challenge**
+### **Day 108 of #100DaysOfData Challenge**
 
 Main achievement for today is to adapt the CNN for race classification on our *Omdena* project. But also I have progressed a bit on *Coursera* course and also took the basic ML assessment in *Datacamp*
 
@@ -168,7 +177,7 @@ Main achievement for today is to adapt the CNN for race classification on our *O
 
 ---
 
-### **Days 107 of #100DaysOfData Challenge**
+### **Day 107 of #100DaysOfData Challenge**
 
 Today I started 3 new items, a book, a new coursera specialization and a new DataCamp career track and I plan to complete them during this month. A side of that I finished the task for face detection.
 
@@ -179,7 +188,7 @@ Today I started 3 new items, a book, a new coursera specialization and a new Dat
 
 ---
 
-### **Days 106 of #100DaysOfData Challenge**
+### **Day 106 of #100DaysOfData Challenge**
 
 Today I went back to face detection task in *Omdena* project and spent most of the time there. From tomorrow I will start new courses and book, so my activity will be more spread.
 
@@ -187,7 +196,7 @@ Today I went back to face detection task in *Omdena* project and spent most of t
 
 ---
 
-### **Days 105 of #100DaysOfData Challenge**
+### **Day 105 of #100DaysOfData Challenge**
 
 Not much work done today, just continued with active learning algorithm implementation and also had some meetings, all related with *Omdena* project.
 
@@ -195,7 +204,7 @@ Not much work done today, just continued with active learning algorithm implemen
 
 ---
 
-### **Days 104 of #100DaysOfData Challenge**
+### **Day 104 of #100DaysOfData Challenge**
 
 More discussions day, we had some tasks meeting on our *Omdena* project and also I started to code the active learning algorithm.
 
@@ -203,7 +212,7 @@ More discussions day, we had some tasks meeting on our *Omdena* project and also
 
 ---
 
-### **Days 103 of #100DaysOfData Challenge**
+### **Day 103 of #100DaysOfData Challenge**
 
 Shared the time between my own project and *Omdena*'s one, and soon I will be starting other courses and books. The planning phase has re-started.
 
@@ -212,7 +221,7 @@ Shared the time between my own project and *Omdena*'s one, and soon I will be st
 
 ---
 
-### **Days 102 of #100DaysOfData Challenge**
+### **Day 102 of #100DaysOfData Challenge**
 
 Today, again I spent most of the Data Science time with *Omdena*'s project while my own house pricing project is running some web scrapping on the background.
 
@@ -220,7 +229,7 @@ Today, again I spent most of the Data Science time with *Omdena*'s project while
 
 ---
 
-### **Days 101 of #100DaysOfData Challenge**
+### **Day 101 of #100DaysOfData Challenge**
 
 The most useful part of today was the tutorial and some hands-on trial with *DAGsHub*, it is the official repository for *Omdena* project and also I find it very useful for my next projects. It is basically the same as *GitHub* but adding some features specifically for Data Science, like *DVC* storage management or *MLFlow*.
 
@@ -228,7 +237,7 @@ The most useful part of today was the tutorial and some hands-on trial with *DAG
 
 ---
 
-### **Days 100 of #100DaysOfData Challenge**
+### **Day 100 of #100DaysOfData Challenge**
 
 Finally day 100, more than 3 months doing at least a minimum of Data Science to reach my objective. It has been a very good way to keep the engagement. During this days I've finished an *Omdena* project and started a new one, also I have my personal project on-going. In terms of courses, I've done the Python for Data Science at Udemy, Machine learning at Coursera and 2 skill tracks in DataCamp. And finally, I read the Python Data Science Handbook and the Machine Learning Yearning books. I will continue with challenge even though it is completed, let's see if I can reach 200 days.
 
@@ -237,7 +246,7 @@ Finally day 100, more than 3 months doing at least a minimum of Data Science to 
 
 ---
 
-### **Days 99 of #100DaysOfData Challenge**
+### **Day 99 of #100DaysOfData Challenge**
 
 I had time spend in both of my projects with quite good progress. Most of the time it has been *Omdena* but also I am trying to push to finish my project.
 
@@ -246,7 +255,7 @@ I had time spend in both of my projects with quite good progress. Most of the ti
 
 ---
 
-### **Days 98 of #100DaysOfData Challenge**
+### **Day 98 of #100DaysOfData Challenge**
 
 Not very productive day, I just could spend the minimum time at *Omdena* project. 
 
@@ -254,7 +263,7 @@ Not very productive day, I just could spend the minimum time at *Omdena* project
 
 ---
 
-### **Days 97 of #100DaysOfData Challenge**
+### **Day 97 of #100DaysOfData Challenge**
 
 Busy day at *Omdena* having a long discussion about data labeling, but still I managed to have progress also in *Coursera* course. From today to the end of the month I will be spending more time on my personal house pricing project, I want to finish it to start a new one.
 
@@ -263,7 +272,7 @@ Busy day at *Omdena* having a long discussion about data labeling, but still I m
 
 ---
 
-### **Days 96 of #100DaysOfData Challenge**
+### **Day 96 of #100DaysOfData Challenge**
 
 Good progress today, on one side, the labeling task is getting a bit clearer now and then, I finished the Machine Learning Fundamentals Datacamp skill track. I still need to improve the effectiveness of my work, but now it is getting better.
 
@@ -273,7 +282,7 @@ Good progress today, on one side, the labeling task is getting a bit clearer now
 
 ---
 
-### **Days 95 of #100DaysOfData Challenge**
+### **Day 95 of #100DaysOfData Challenge**
 
 Intense day in *Omdena* project, a lot of discussions going on and just keep up with them takes a good amount of time. Also I am keeping the progress on my courses to meet my target, but I feel I am leaving behind the house pricing project.
 
@@ -283,7 +292,7 @@ Intense day in *Omdena* project, a lot of discussions going on and just keep up 
 
 ---
 
-### **Days 94 of #100DaysOfData Challenge**
+### **Day 94 of #100DaysOfData Challenge**
 
 A lot of time spent today introducing myself in computer vision, but also I had some progress in *DataCamp* and also in the *Coursera* course.
 
@@ -293,7 +302,7 @@ A lot of time spent today introducing myself in computer vision, but also I had 
 
 ---
 
-### **Days 93 of #100DaysOfData Challenge**
+### **Day 93 of #100DaysOfData Challenge**
 
 Two main items to highliht today, the kick-off of *Omdena* project and finishing the book *Machine Learning Yearning*. 
 
@@ -303,7 +312,7 @@ Two main items to highliht today, the kick-off of *Omdena* project and finishing
 
 ---
 
-### **Days 92 of #100DaysOfData Challenge**
+### **Day 92 of #100DaysOfData Challenge**
 
 As the new challenge from *Omdena* will be using *DAGsHub* instead of *GitHub*, I spent most of the time learning and setting up an account there.
 
@@ -313,7 +322,7 @@ As the new challenge from *Omdena* will be using *DAGsHub* instead of *GitHub*, 
 
 ---
 
-### **Days 91 of #100DaysOfData Challenge**
+### **Day 91 of #100DaysOfData Challenge**
 
 Not a massive progress today, just a little bit on each item. The only interesting one would be on my house pricing project, where I am learning how to use *geopandas* package.
 
@@ -321,7 +330,7 @@ Not a massive progress today, just a little bit on each item. The only interesti
 
 ---
 
-### **Days 90 of #100DaysOfData Challenge**
+### **Day 90 of #100DaysOfData Challenge**
 
 The main progress today is that I finished the week 6 in *Andrew Ng*'s course, started a new book, *Machine Learning Yearning*, also from *Andrew Ng* and completed a datacamp course.
 
@@ -331,7 +340,7 @@ The main progress today is that I finished the week 6 in *Andrew Ng*'s course, s
 
 ---
 
-### **Days 89 of #100DaysOfData Challenge**
+### **Day 89 of #100DaysOfData Challenge**
 
 Finally finished the book *Python Data Science Handbook* and also progressed with the EDA on my house pricing project. Being real data scrapped by myself, I am finding very interesting insights and I guess quite unique as I am not using public available data.
 
@@ -340,7 +349,7 @@ Finally finished the book *Python Data Science Handbook* and also progressed wit
 
 ---
 
-### **Days 88 of #100DaysOfData Challenge**
+### **Day 88 of #100DaysOfData Challenge**
 
 Not a very successful day but I managed to spend some time in each of my open fronts.
 
@@ -349,7 +358,7 @@ Not a very successful day but I managed to spend some time in each of my open fr
 
 ---
 
-### **Days 87 of #100DaysOfData Challenge**
+### **Day 87 of #100DaysOfData Challenge**
 
 I spent most of the time in the zoopla project, I had to go back to speed and remember what I was doing. Also I had some side time to progress in the courses and book.
 
@@ -357,7 +366,7 @@ I spent most of the time in the zoopla project, I had to go back to speed and re
 
 ---
 
-### **Days 86 of #100DaysOfData Challenge**
+### **Day 86 of #100DaysOfData Challenge**
 
 After two weeks of not being able to work at all, I am back to the business and the challenge full time. I have just completed Udemy course and started the famous *Machine Learning Course from Stanford University in Coursera*.
 
@@ -366,14 +375,14 @@ After two weeks of not being able to work at all, I am back to the business and 
 
 ---
 
-### **Days 85 of #100DaysOfData Challenge**
+### **Day 85 of #100DaysOfData Challenge**
 
 With the moving I am not having too much time for data science these days. Basically, I am reading the book and watching Udemy course, hopefully soon I get more time to progress in my project.
 
 1. **Course**: [2021 Python for Machine Learning & Data Science](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). Today I have finished the module of *Agglomerative clustering* algorithm. It follows similar logic than yesterday's module, it will group the samples in clusters based on spatial distances. I have the same feeling, it seems more an explorative tool than something to give final results.
 2. **Book**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). This chaper is running trhough the main types of algorithms, showing a short description, the method, when to use it and a final example. It is quite good to get an overview, but still it was not the main purpose of the book and the course is giving similar but deeper information.
 
-### **Days 84 of #100DaysOfData Challenge**
+### **Day 84 of #100DaysOfData Challenge**
 
 Another courses day, I want to clean a bit and close the courses I had opened before moving on. Also I found an interesting post about data projects structure that I want to apply to the London Housing Price project.
 
