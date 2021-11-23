@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 125 of #100DaysOfData Challenge**
+
+Came back to Coursera Deep Learning Specialization and started to code the active learning tool. Also I keep playing with the convolutional model to see if I can improve the race classifier model.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Again, not huge progress, I keep trying to improve the basic model, but more to learn than to get a final top model. Also I started the first version of the Active Learning notebook in the meantime debdeep divide the sub-tasks.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Just started the course *Convolutional Networks*, in this first week they focus on introduce all the fundamentals. The convolutional layer itsel, pooling layers, padding, stride, etc. Tomorrow will finish this first week and continue to the second.
+
+---
+
 ### **Day 124 of #100DaysOfData Challenge**
 
 Busy weekend and I couldn't spend that much time on my learning. Mainly I tried to keep connected to *Omdena* project and also progress on Datacamp modules. From tomorrow I'll be back to Coursera's *Deep Learning Specialization*.
