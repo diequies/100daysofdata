@@ -24,6 +24,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 126 of #100DaysOfData Challenge**
+
+Just worked today on Deep Learning Specialization at Coursera. From tomorrow we will plan the code for the Active Learning tool and I would be able to come back to that as well.
+
+1. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Finished the first week of *Convolutional Networks*, in this week Andrew Ng introduces the basics of convolutional networks. But what was more interesting was the assigment, where we had to code from scratch a simple convolutional network. The second assignment was to code the same network but using *TensorFlow* and *Keras*. Tomorrow I will complete the second week, reviewing the most common CNN architectures.
+
+---
+
 ### **Day 125 of #100DaysOfData Challenge**
 
 Came back to Coursera Deep Learning Specialization and started to code the active learning tool. Also I keep playing with the convolutional model to see if I can improve the race classifier model.
