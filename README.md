@@ -24,6 +24,19 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 127 of #100DaysOfData Challenge**
+
+Another day focused on DL specialization, although today I also spent some time on *Omdena* project. I should start doing more hands-on work rather than courses and planning.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today we planned the sub-tasks for Active Learning tool and we should now start coding them. First we will set the acceptance criteria and the pseudocode and then start coding the modules.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Completed the 2nd week of *Convolutional Networks* course. The main topic was to review the most important architectures and the different structures that can be used to build CNNs. For example:
+- ResNets.
+- Inception.
+- MobileNet.
+- EfficientNet.
+
+---
+
 ### **Day 126 of #100DaysOfData Challenge**
 
 Just worked today on Deep Learning Specialization at Coursera. From tomorrow we will plan the code for the Active Learning tool and I would be able to come back to that as well.
