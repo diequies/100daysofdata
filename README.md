@@ -24,16 +24,25 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 128 of #100DaysOfData Challenge**
+
+Very similar day, good progress on DL specialization but no so much on *Omdena* project. As I will be out the whole weekend, I will need to have a good push next week.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today, I started the pseudocode of the sub-task I got assigned, to validate the iterations. I've gone half way, but as I see the progress, either we have a strong push now or we will really strugle to meet the minimum requirements.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). 3rd week of *Convolutional Networks* course completed. This week was focused on object detection instead of the basic CNNs for classification. It focuses on YOLO and U-Net, but it is really interesting to see the different strategies to force a NN for many object detection in a pictures or for image segmentation, where each pixel is classified. Definitely it is one of the ML areas that I find most interesting.
+
+---
+
 ### **Day 127 of #100DaysOfData Challenge**
 
 Another day focused on DL specialization, although today I also spent some time on *Omdena* project. I should start doing more hands-on work rather than courses and planning.
 
 1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today we planned the sub-tasks for Active Learning tool and we should now start coding them. First we will set the acceptance criteria and the pseudocode and then start coding the modules.
 2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Completed the 2nd week of *Convolutional Networks* course. The main topic was to review the most important architectures and the different structures that can be used to build CNNs. For example:
-- ResNets.
-- Inception.
-- MobileNet.
-- EfficientNet.
+   - ResNets.
+   - Inception.
+   - MobileNet.
+   - EfficientNet.
 
 ---
 
