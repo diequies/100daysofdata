@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 129 of #100DaysOfData Challenge**
+
+After a weekend completely out of any work related to data science, I am back to work. I want to finish Deep Learning specialization as soon as possible and move on to Google Cloud Platform to get ready for a job interview.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). The code for my assigned module is almost finished, just need to complete the plots and I will move to the next one. The main problem is that I believe I am the only one that progressed it.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Completed the last week of *Convolutional Networks* working on techniques for face recognition. I am now understanding how big are the possibilities of deep learning just changing the loss or using different algorithms, how broad it is. Also started the first week of *Recurrent Neural Networks*, which is basically the introduction of this type of networks.
+
+---
+
 ### **Day 128 of #100DaysOfData Challenge**
 
 Very similar day, good progress on DL specialization but no so much on *Omdena* project. As I will be out the whole weekend, I will need to have a good push next week.
