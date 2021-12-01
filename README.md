@@ -24,6 +24,23 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 130 of #100DaysOfData Challenge**
+
+Focused on getting done the Deep Learning specialization to move to *GCP* quickly. Also I spent some time on *Omdena* project to keep up the progress.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Completed my code for loop validation and got review from a proper software engineer. He refactored the structure and the code, not a huge change but not everything is more on its place. Also he added __init__ files, I can wait to see how they work altogether.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Yesterday I tried to sprint and I managed to complete the first and second week of *Recurrent Neural Networks*. The first week is a foundations introductions and also present the main types of *RNN* cells:
+   - Basic RNN.
+   - Gated Recurrent Unit (GRU).
+   - Long Short Term Memory (LSTM).
+   - Bidirectional RNN.
+
+   The second week moves to a more NLP focus topic, *word embeddings*. how to perform it and the main pre-trained ones:
+   - Word2vec.
+   - GloVe.
+
+---
+
 ### **Day 129 of #100DaysOfData Challenge**
 
 After a weekend completely out of any work related to data science, I am back to work. I want to finish Deep Learning specialization as soon as possible and move on to Google Cloud Platform to get ready for a job interview.
