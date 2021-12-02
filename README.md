@@ -24,6 +24,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 131 of #100DaysOfData Challenge**
+
+Finally completed *Deep Learning* specialization from Coursera, amazing series of course and really recommended. The next step is to learn *Google Cloud Platform* looking to a job interview. Also spent some time in *Omdena* project, but much less than what I wanted.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Started the pseudo code of my next module, where I predict the labels and extract the coefficients and the face features from the model. I would need to learn how to do it in PyTorch, but I want to do it as much model independent as I can.
+2. **Course**: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?=&page=1). Completed the last two weeks of *RNN* and therefore the whole specialization. Probably the courses where I've learnt the most and the best explained. The third week of the course introduced the *Beam search* and *Attention* concepts, probably the most difficult concepts on the specialization. And in the short last week, they introduce the *transformers* architecture, definitely the most complex NN so far.
+
+---
+
 ### **Day 130 of #100DaysOfData Challenge**
 
 Focused on getting done the Deep Learning specialization to move to *GCP* quickly. Also I spent some time on *Omdena* project to keep up the progress.
