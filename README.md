@@ -15,12 +15,22 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 | 4. [**Machine Learning Fundamentals datacamp Skill Track**](https://app.datacamp.com/learn/skill-tracks/machine-learning-fundamentals-with-python?version=1) |
 | 5. [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?=&page=1) |
 | 6. [**Machine Learning Scientist with Python datacamp Career Track**](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python) |
+| 7. [**Data Engineering, Big Data, and Machine Learning on GCP Specialization**](https://www.coursera.org/specializations/gcp-data-machine-learning?)
 
 | Books and Papers |
 | ---------------- |
 | 1. [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 | 2. [**Machine Learning Yearning**](https://github.com/ajaymache/machine-learning-yearning) |
 | 3. [**Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://github.com/ageron/handson-ml2) |
+
+---
+
+### **Day 132 of #100DaysOfData Challenge**
+
+Not the most useful day for data science, I had too many external things to do. But anyway, I started a new specialization about *Google Cloud Platform* and progress a bit on *Omdena* project.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Today I was focused on the *mid-term* presentation to the partner *CeretAI*. We need to show them the progress so far and how we are thinking to meet their requirements by the end of the challenge. I will be presenting the *Active Learning* part and therefore I had to prepare some slides.
+2. **Course**: [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning?). Just started the first course of the specialization, *Google Cloud, Big Data and Machine Learning Fundamentals*, I want to get the basic notions on *Google Cloud Platform* to get ready for a job. Also they are skill to have in the pocket.
 
 ---
 
