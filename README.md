@@ -25,6 +25,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 133 of #100DaysOfData Challenge**
+
+Most important of the day was the *Omdena* mid-term meeting, it marks the project possibilities for the next weeks and also updates the stakeholders with the progress. Also, I tryied to progress a bit on *GCP* specialization.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). We presented to *CeretAI* the project progress towards their requirements. In summary we will be able to meet the deliverable of an end to end race classification model, from video input to dashboard with statistics. The doubt comes when we speak of accuracy, it is still not clear if we will meet the 80% of average accuracy.
+2. **Course**: [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning?). Not a big progress, I got introduced to *BigQuery* on google platform. I need to make a big push forwards on this specialization to understand the whole Data Engineering role.
+
+---
+
 ### **Day 132 of #100DaysOfData Challenge**
 
 Not the most useful day for data science, I had too many external things to do. But anyway, I started a new specialization about *Google Cloud Platform* and progress a bit on *Omdena* project.
