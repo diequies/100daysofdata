@@ -25,6 +25,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 134 of #100DaysOfData Challenge**
+
+Some progress in both my current open fronts, coding the AL tool modules and with the *GCP* specialization. Now I feel the improvements quite slow but I hope it gets better soon.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Just finished the module to extract the coefficients and face features from intermediate layers of our model. It still have hard coded some items related with the model, I don't like it because it makes difficult to change it, but I don't know how to do it differently. Hopefully the people checks and correct my code so I can lear.
+2. **Course**: [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning?). Completed the first week where they mainly introduced the services they have to handle data. I still need a lot of information to understand properly and also more hands-on experience. Let's see what comes next.
+
+---
+
 ### **Day 133 of #100DaysOfData Challenge**
 
 Most important of the day was the *Omdena* mid-term meeting, it marks the project possibilities for the next weeks and also updates the stakeholders with the progress. Also, I tryied to progress a bit on *GCP* specialization.
