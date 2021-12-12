@@ -25,6 +25,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 135 of #100DaysOfData Challenge**
+
+After almost a week away not being able to progress in my path in Data Science, I am back to recover the time lost. We are in the last part of our *Omdena* project, so I need to spend time there and also getting the *GCP* specialization.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). We have finished the inital modules for Active Learning and now we are working on the integration. During the first review a couple new modules came up, so it is what I will do now.
+2. **Course**: [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning?). Completed the first two courses, *Google Cloud Big Data and Machine Learning Fundamentals* and *Modernizing Data Lakes and Data Warehouses with GCP*. They were quite informative but not really good, mainly the labs is more a copy and paste what they say than to actually do and learn something. Now I am in the second week of *Building Batch Data Pipelines on GCP* and it is happening very similar, but at least I am getting the basics.
+
+---
+
 ### **Day 134 of #100DaysOfData Challenge**
 
 Some progress in both my current open fronts, coding the AL tool modules and with the *GCP* specialization. Now I feel the improvements quite slow but I hope it gets better soon.
