@@ -25,6 +25,15 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 136 of #100DaysOfData Challenge**
+
+Spent most of the day to progress *Omdena* project, otherwise we would not complete it in time. Also I spent some time preparing for my interview for Data Engineering role.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). During today I completed the pending modules we raised while reviewing the integration. Mainly they were modules to smooth the integration, like a helper function to check if the labeling is completed. Also I had to change the sampling function to be more precise.
+2. **Course**: [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning?). Not very much progress, viewed some videos and completed a couple of labs. I hope I can progress further the next days.
+
+---
+
 ### **Day 135 of #100DaysOfData Challenge**
 
 After almost a week away not being able to progress in my path in Data Science, I am back to recover the time lost. We are in the last part of our *Omdena* project, so I need to spend time there and also getting the *GCP* specialization.
