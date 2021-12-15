@@ -25,6 +25,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 137 of #100DaysOfData Challenge**
+
+Today I have been traveling, therefore I couldn't progress that much, just did some work in *Omdena* project to try to finish the Active Learning tool.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). The main work I did was to organize the folders and its effect on the tool/code. We are now refactoring the code, but it should be ready soon, we just need to put the pieces together.
+
+---
+
 ### **Day 136 of #100DaysOfData Challenge**
 
 Spent most of the day to progress *Omdena* project, otherwise we would not complete it in time. Also I spent some time preparing for my interview for Data Engineering role.
