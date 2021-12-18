@@ -25,6 +25,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 139 of #100DaysOfData Challenge**
+
+Today I had the first interview, and also I could spend time on *Omdena*, although not as much as I would like.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). I created a simulated environment to test the tool against know images. The purpose is to see that the tool can complete the whole process. During this weekend we should complete and test the tool and look for the first batch of data.
+
+---
+
 ### **Day 138 of #100DaysOfData Challenge**
 
 Today and tomorrow I will be mainly preparing and having job interviews, therefore I will spend very litle time progressing my projects or learnings.
