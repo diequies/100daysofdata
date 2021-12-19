@@ -25,6 +25,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 140 of #100DaysOfData Challenge**
+
+These days I am quite focused on *Omdena*, we are on our last days of challenge and we need the last push.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). While testing the integration script I am having quite a lot of concerns about the robustness of file transfering. I need to go over the flow and try to make sure that it won't crash when there are missing files or duplicates. But first the most important, start making the dataset.
+
+---
+
 ### **Day 139 of #100DaysOfData Challenge**
 
 Today I had the first interview, and also I could spend time on *Omdena*, although not as much as I would like.
