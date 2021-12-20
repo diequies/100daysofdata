@@ -25,6 +25,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 141 of #100DaysOfData Challenge**
+
+Another day almost fully focused on *Omdena*, but well paid. Hopefully by tomorrow I will start spending time again with other topics and courses.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). We managed to finish the first version of the tool, still needs improvements but it can be used already. Also we decided to just use the base model with the tool because of the time constraints. It is not ideal as the pictures taken for labeling might differ, but it would be impossible to implement another model in just some days. Now we need to start building the first batch of unlabeled data.
+
+---
+
 ### **Day 140 of #100DaysOfData Challenge**
 
 These days I am quite focused on *Omdena*, we are on our last days of challenge and we need the last push.
