@@ -25,6 +25,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 142 of #100DaysOfData Challenge**
+
+Today I could work in both, my *Omdena* project and also in the Datacamp career track. And I had to prepare another interview as well. Quite a full day, I look forwards to have some time for my personal project.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). We changed our assumption for ethnic groups, we moved from 7 to 6 different races. We thought that reducing one could help use to label and to increase the model accuracy. It does help us to label but the effect on accuracy is not so big. From tomorrow I will start applying the active learning algorithm to improve our data set.
+2. **Course**: [Machine Learning Scientist with Python datacamp Career Track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python). Finished the  course *Machine Learning with Spark*, it is interesting to learn a different way to perform machine learning. I haven't been able to see the benefits of use Spark, but I suppose that as your data grows it makes the difference. The last course would be *Winning a Kaggle competition in Python*.
+---
+
 ### **Day 141 of #100DaysOfData Challenge**
 
 Another day almost fully focused on *Omdena*, but well paid. Hopefully by tomorrow I will start spending time again with other topics and courses.
