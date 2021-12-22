@@ -25,6 +25,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 143 of #100DaysOfData Challenge**
+
+Today I had to focus on *Omdena* and labeling face images and in another interview. I passed the interview and now I got a coding assignment that is going to take at least a week of time. I will need to combine that with *Omdena* to be able to complete to challenge.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). The main activity now is data labeling, we need to progress using active learning algorithm and grow our dataset to increase the model prediction power. I am quite interested to see what is the effect of adding these pictures.
+
+---
+
 ### **Day 142 of #100DaysOfData Challenge**
 
 Today I could work in both, my *Omdena* project and also in the Datacamp career track. And I had to prepare another interview as well. Quite a full day, I look forwards to have some time for my personal project.
