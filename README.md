@@ -25,6 +25,14 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 144 of #100DaysOfData Challenge**
+
+Today I've been focused on my interview challenge, I haven't reach to a solution yet, but I am closer now. It is more a software engineering problem than a Data Science problem, but you need also some analysis skills. Also I had some time to spend on *Omdena* project, where we are struggling because of lack of people.
+
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Finally we completed the first loop of active learning and seems quite successful. It improved almost 3 points of average accuracy. Let's see if it keeps up the improvement in the next loops.
+
+---
+
 ### **Day 143 of #100DaysOfData Challenge**
 
 Today I had to focus on *Omdena* and labeling face images and in another interview. I passed the interview and now I got a coding assignment that is going to take at least a week of time. I will need to combine that with *Omdena* to be able to complete to challenge.
