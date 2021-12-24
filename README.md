@@ -25,6 +25,13 @@ In this repository I will track my first challenge of #100daysofdata, using as a
 
 ---
 
+### **Day 145 of #100DaysOfData Challenge**
+
+Another day with the interview challenge, I am quite blocked with it. The data they give you is quite dirty and doesn't make sense in many cases. I will clean it and apply the ideas I had. In parallel we kept labeling for *Omdena*.
+1. **Project**: [Using Computer Vision to Detect Ethnicity in News and Videos and Improve Ethnicity Awareness](https://omdena.com/projects/ethnicity-awareness/). Not much work done, just another labeling batch and getting a bit concern about the data we have. We need a third source of images, even though not labeled.
+
+---
+
 ### **Day 144 of #100DaysOfData Challenge**
 
 Today I've been focused on my interview challenge, I haven't reach to a solution yet, but I am closer now. It is more a software engineering problem than a Data Science problem, but you need also some analysis skills. Also I had some time to spend on *Omdena* project, where we are struggling because of lack of people.
